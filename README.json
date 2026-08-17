@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:16:44Z",
+            "last_commit": "2026-08-17T12:37:32Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12102
+            "stars": 12110
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T22:09:20Z",
+            "last_commit": "2026-08-17T10:52:01Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4265
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T17:42:40Z",
             "owner": "open-policy-agent",
             "repo": "conftest",
-            "stars": 3234
+            "stars": 3236
           }
         }
       ],
@@ -181,6 +181,20 @@
             "repo": "agt-policies-nigeria",
             "stars": 5
           }
+        },
+        {
+          "node_type": "item",
+          "title": "GOPAL",
+          "description": "66 Rego policies encoding AI-governance regulations as executable checks: EU AI Act, NIST AI RMF, FERPA/COPPA, fair lending. Versioned under with semver guarantees, allow/deny test per policy, + Regal in CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Open Policy Agent",
+            "last_commit": "2026-07-31T07:51:21Z",
+            "owner": "Principled-Evolution",
+            "repo": "gopal",
+            "stars": 4
+          }
         }
       ],
       "title": "Policy Packages"
@@ -290,6 +304,20 @@
             "repo": "opa-gradle-plugin",
             "stars": 13
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot Starter for OPA ABAC",
+          "description": "Spring-native ABAC authorization backed by OPA: method security, hierarchical resource authorization, and partial-evaluation → JPA data filtering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-15T10:17:45Z",
+            "owner": "Void3110",
+            "repo": "spring-boot-starter-opa-abac",
+            "stars": 3
+          }
         }
       ],
       "title": "Java"
@@ -305,10 +333,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:28:54Z",
+            "last_commit": "2026-08-16T14:28:59Z",
             "owner": "microsoft",
             "repo": "regorus",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -409,10 +437,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:28:54Z",
+            "last_commit": "2026-08-16T14:28:59Z",
             "owner": "microsoft",
             "repo": "regorus",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -471,10 +499,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:28:54Z",
+            "last_commit": "2026-08-16T14:28:59Z",
             "owner": "microsoft",
             "repo": "regorus",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -607,10 +635,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:16:44Z",
+            "last_commit": "2026-08-17T12:37:32Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12102
+            "stars": 12110
           }
         },
         {
@@ -621,10 +649,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:28:54Z",
+            "last_commit": "2026-08-16T14:28:59Z",
             "owner": "microsoft",
             "repo": "regorus",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -753,10 +781,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T09:33:38Z",
+            "last_commit": "2026-08-17T11:29:33Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5640
+            "stars": 5641
           }
         },
         {
@@ -767,10 +795,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:28:54Z",
+            "last_commit": "2026-08-16T14:28:59Z",
             "owner": "microsoft",
             "repo": "regorus",
-            "stars": 337
+            "stars": 338
           }
         }
       ],
@@ -787,10 +815,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T19:48:46Z",
+            "last_commit": "2026-08-17T12:33:04Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11641
+            "stars": 11649
           }
         },
         {
@@ -801,7 +829,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T22:09:20Z",
+            "last_commit": "2026-08-17T10:52:01Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4265
@@ -815,7 +843,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-09T06:02:02Z",
+            "last_commit": "2026-08-17T09:43:39Z",
             "owner": "google",
             "repo": "gke-policy-automation",
             "stars": 526
@@ -843,7 +871,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T20:01:49Z",
+            "last_commit": "2026-08-17T09:56:23Z",
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
@@ -899,7 +927,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T12:21:44Z",
+            "last_commit": "2026-08-17T09:07:45Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -1107,10 +1135,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:16:44Z",
+            "last_commit": "2026-08-17T12:37:32Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12102
+            "stars": 12110
           }
         },
         {
@@ -1121,10 +1149,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:16:44Z",
+            "last_commit": "2026-08-17T12:37:32Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12102
+            "stars": 12110
           }
         },
         {
@@ -1135,10 +1163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:16:44Z",
+            "last_commit": "2026-08-17T12:37:32Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12102
+            "stars": 12110
           }
         },
         {
@@ -1263,10 +1291,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T12:20:40Z",
+            "last_commit": "2026-08-17T12:22:12Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37424
+            "stars": 37445
           }
         },
         {
@@ -1280,7 +1308,7 @@
             "last_commit": "2026-08-11T13:26:22Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12455
+            "stars": 12459
           }
         },
         {
@@ -1502,7 +1530,7 @@
             "last_commit": "2026-08-11T15:07:16Z",
             "owner": "aserto-dev",
             "repo": "topaz",
-            "stars": 1356
+            "stars": 1357
           }
         },
         {
@@ -1513,7 +1541,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T14:45:13Z",
+            "last_commit": "2026-08-17T12:11:07Z",
             "owner": "open-policy-agent",
             "repo": "regal",
             "stars": 398
@@ -1544,7 +1572,7 @@
             "last_commit": "2022-06-30T13:38:28Z",
             "owner": "fugue",
             "repo": "fregot",
-            "stars": 233
+            "stars": 232
           }
         },
         {
@@ -1887,9 +1915,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T12:33:07.330Z",
+    "last_updated": "2026-08-17T12:37:45.129Z",
     "original_repository": "open-policy-agent/awesome-opa",
-    "original_repository_sha": "9f1f6c8b800541ec01385983950e98d7854f5633",
+    "original_repository_sha": "4ef13c8945827a3dc3c7a2d90a47f604f947ae03",
     "enhanced_repository": "enhansome/enhansome-opa",
     "enhanced_repository_description": null,
     "title": "awesome-opa with stars"
