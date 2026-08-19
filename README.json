@@ -1,60 +1,65 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OPA",
+              "description": "Open Policy Agent Github repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48714685,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:23:45Z",
+                "owner": "open-policy-agent",
+                "repo": "opa",
+                "stars": 12118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gatekeeper",
+              "description": "Kubernetes admission controller using OPA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154894457,
+                "language": "Go",
+                "last_commit": "2026-08-18T00:57:43Z",
+                "owner": "open-policy-agent",
+                "repo": "gatekeeper",
+                "stars": 4265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conftest",
+              "description": "Write tests against structured configuration data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178249461,
+                "language": "Go",
+                "last_commit": "2026-08-18T11:04:12Z",
+                "owner": "open-policy-agent",
+                "repo": "conftest",
+                "stars": 3240
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repositories"
+        }
+      ],
       "title": "Official projects"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OPA",
-          "description": "Open Policy Agent Github repository",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:38:33Z",
-            "owner": "open-policy-agent",
-            "repo": "opa",
-            "stars": 12115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gatekeeper",
-          "description": "Kubernetes admission controller using OPA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T00:57:43Z",
-            "owner": "open-policy-agent",
-            "repo": "gatekeeper",
-            "stars": 4265
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conftest",
-          "description": "Write tests against structured configuration data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T11:04:12Z",
-            "owner": "open-policy-agent",
-            "repo": "conftest",
-            "stars": 3240
-          }
-        }
-      ],
-      "title": "Repositories"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347090899,
             "language": "Open Policy Agent",
             "last_commit": "2022-09-20T16:47:55Z",
             "owner": "Cigna",
@@ -77,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272838811,
             "language": "Open Policy Agent",
             "last_commit": "2026-06-20T16:09:36Z",
             "owner": "raspbernetes",
@@ -91,8 +98,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262924542,
             "language": "Shell",
-            "last_commit": "2026-08-18T12:37:33Z",
+            "last_commit": "2026-08-18T14:05:23Z",
             "owner": "redhat-cop",
             "repo": "rego-policies",
             "stars": 171
@@ -105,8 +113,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401947582,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-18T05:40:26Z",
+            "last_commit": "2026-08-19T12:31:02Z",
             "owner": "kubescape",
             "repo": "regolibrary",
             "stars": 131
@@ -119,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 256213133,
             "language": "Open Policy Agent",
             "last_commit": "2022-02-16T14:24:51Z",
             "owner": "aquasecurity",
@@ -133,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101445529,
             "language": "Open Policy Agent",
             "last_commit": "2023-10-16T10:17:42Z",
             "owner": "open-policy-agent",
@@ -147,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301482830,
             "language": "Go",
             "last_commit": "2022-02-05T18:46:53Z",
             "owner": "policy-hub",
@@ -161,6 +173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371760649,
             "language": "Open Policy Agent",
             "last_commit": "2023-10-19T13:43:14Z",
             "owner": "rallyhealth",
@@ -175,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1269050243,
             "language": "Open Policy Agent",
             "last_commit": "2026-07-04T04:07:48Z",
             "owner": "kingztech2019",
@@ -189,6 +203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 952106577,
             "language": "Open Policy Agent",
             "last_commit": "2026-07-31T07:51:21Z",
             "owner": "Principled-Evolution",
@@ -200,432 +215,460 @@
       "title": "Policy Packages"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jarl",
+              "description": "Native evaluation of Rego in the JVM, via OPA's IR format (blog)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477504053,
+                "language": "Clojure",
+                "last_commit": "2024-02-01T14:04:05Z",
+                "owner": "borgeby",
+                "repo": "jarl",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPA Java Client",
+              "description": "Generic Java client to query OPA's REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236950603,
+                "language": "Java",
+                "last_commit": "2024-10-28T01:43:26Z",
+                "owner": "Bisnode",
+                "repo": "opa-java-client",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Thunx",
+              "description": "Thunx is a pluggable ABAC system using OPA, Spring Cloud Gateway and Spring Data REST",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375046549,
+                "language": "Java",
+                "last_commit": "2026-08-19T12:29:22Z",
+                "owner": "xenit-eu",
+                "repo": "thunx",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spring Security",
+              "description": "OPA Spring Security Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242080215,
+                "language": "Java",
+                "last_commit": "2021-04-13T07:48:21Z",
+                "owner": "Bisnode",
+                "repo": "opa-spring-security",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spring Security Reactive",
+              "description": "OPA with Spring Security Reactive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331504102,
+                "language": "Java",
+                "last_commit": "2023-11-01T06:42:20Z",
+                "owner": "massenz",
+                "repo": "jwt-opa",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java SDK",
+              "description": "Java SDK for interacting with OPA (documentation)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767723398,
+                "language": "Java",
+                "last_commit": "2026-06-16T02:43:32Z",
+                "owner": "open-policy-agent",
+                "repo": "opa-java",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gradle",
+              "description": "OPA plugin for Gradle",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221184575,
+                "language": "Java",
+                "last_commit": "2025-03-01T11:34:54Z",
+                "owner": "Bisnode",
+                "repo": "opa-gradle-plugin",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spring Boot Starter for OPA ABAC",
+              "description": "Spring-native ABAC authorization backed by OPA: method security, hierarchical resource authorization, and partial-evaluation → JPA data filtering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1195350084,
+                "language": "Java",
+                "last_commit": "2026-08-18T14:33:35Z",
+                "owner": "Void3110",
+                "repo": "spring-boot-starter-opa-abac",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "regorus",
+              "description": "Evaluate Rego policies in Python using Regorus, a fast, lightweight Rego interpreter written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599724646,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:28:12Z",
+                "owner": "microsoft",
+                "repo": "regorus",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPA Python client",
+              "description": "Python client for OPA's REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225400958,
+                "language": "Python",
+                "last_commit": "2026-08-18T11:40:31Z",
+                "owner": "Turall",
+                "repo": "OPA-python-client",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rego Python",
+              "description": "Python package for interacting with Rego",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139075854,
+                "language": "Python",
+                "last_commit": "2021-07-15T18:21:36Z",
+                "owner": "open-policy-agent",
+                "repo": "rego-python",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flask OPA",
+              "description": "OPA client for the Flask microframework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152926471,
+                "language": "Python",
+                "last_commit": "2021-03-16T03:26:38Z",
+                "owner": "EliuX",
+                "repo": "flask-opa",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sphinx Rego",
+              "description": "Sphinx extension that automatically documents Rego policies",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 359463379,
+                "language": "Python",
+                "last_commit": "2023-03-18T10:15:05Z",
+                "owner": "zenitysec",
+                "repo": "sphinx-rego",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPA Python",
+              "description": "Python client library for Open Policy Agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577089623,
+                "language": "Python",
+                "last_commit": "2022-12-14T23:20:07Z",
+                "owner": "heliconhq",
+                "repo": "opa-python",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bottle Authorization",
+              "description": "Custom Bottle Application Authorization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332813559,
+                "language": "Python",
+                "last_commit": "2021-07-06T13:31:36Z",
+                "owner": "dolevf",
+                "repo": "bottle-acl-openpolicyagent",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "regorus",
+              "description": "Golang bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599724646,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:28:12Z",
+                "owner": "microsoft",
+                "repo": "regorus",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fiber OPA Integration",
+              "description": "OPA integration for Fiber web framework. Enables to execute Rego policies in the middlewares.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 361560245,
+                "language": "Go",
+                "last_commit": "2026-08-18T21:09:55Z",
+                "owner": "gofiber",
+                "repo": "contrib",
+                "stars": 304
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go Example API Authorization",
+              "description": "Example API authorization using OPA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144881883,
+                "language": "Go",
+                "last_commit": "2024-03-06T10:48:57Z",
+                "owner": "open-policy-agent",
+                "repo": "example-api-authz-go",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTP API OPA middlewares",
+              "description": "Collection of OPA middlewares for your HTTP/Gin/Fiber API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528574963,
+                "language": "Go",
+                "last_commit": "2024-03-14T11:31:55Z",
+                "owner": "Joffref",
+                "repo": "opa-middleware",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "regorus",
+              "description": "C# bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599724646,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:28:12Z",
+                "owner": "microsoft",
+                "repo": "regorus",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C# SDK",
+              "description": "C# SDK for interacting with OPA (documentation)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768260346,
+                "language": "C#",
+                "last_commit": "2026-08-10T16:13:19Z",
+                "owner": "open-policy-agent",
+                "repo": "opa-csharp",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpaDotNet.Extensions.AspNetCore",
+              "description": "ASP.NET Core authorization infrastructure",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666279363,
+                "language": "C#",
+                "last_commit": "2025-03-13T04:57:58Z",
+                "owner": "me-viper",
+                "repo": "OpaDotNet.Extensions",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jarl",
+              "description": "Native evaluation of Rego in the JVM (written in Clojure), via OPA's IR format (blog)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477504053,
+                "language": "Clojure",
+                "last_commit": "2024-02-01T14:04:05Z",
+                "owner": "borgeby",
+                "repo": "jarl",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clj-opa",
+              "description": "Middleware and utilities for app authorization with OPA in Clojure",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327662956,
+                "language": "Clojure",
+                "last_commit": "2025-12-12T10:04:46Z",
+                "owner": "anderseknert",
+                "repo": "clj-opa",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dockerfile security",
+              "description": "A collection of OPA rules to statically analyze Dockerfiles to improve security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301210520,
+                "language": "Open Policy Agent",
+                "last_commit": "2022-06-22T15:16:13Z",
+                "owner": "gbrindisi",
+                "repo": "dockerfile-security",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPA Docker authorization",
+              "description": "OPA to help policy-enable an existing services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60713839,
+                "language": "Go",
+                "last_commit": "2026-06-25T09:33:07Z",
+                "owner": "open-policy-agent",
+                "repo": "opa-docker-authz",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker Security Checker",
+              "description": "OPA Rego policies for Dockerfile Security checks using Conftest",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264303011,
+                "language": "Open Policy Agent",
+                "last_commit": "2022-06-27T10:28:09Z",
+                "owner": "madhuakula",
+                "repo": "docker-security-checker",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docker"
+        }
+      ],
       "title": "Language and Platform Integrations"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jarl",
-          "description": "Native evaluation of Rego in the JVM, via OPA's IR format (blog)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-02-01T14:04:05Z",
-            "owner": "borgeby",
-            "repo": "jarl",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPA Java Client",
-          "description": "Generic Java client to query OPA's REST API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-10-28T01:43:26Z",
-            "owner": "Bisnode",
-            "repo": "opa-java-client",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Thunx",
-          "description": "Thunx is a pluggable ABAC system using OPA, Spring Cloud Gateway and Spring Data REST",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-29T16:56:40Z",
-            "owner": "xenit-eu",
-            "repo": "thunx",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spring Security",
-          "description": "OPA Spring Security Library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-04-13T07:48:21Z",
-            "owner": "Bisnode",
-            "repo": "opa-spring-security",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spring Security Reactive",
-          "description": "OPA with Spring Security Reactive",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-11-01T06:42:20Z",
-            "owner": "massenz",
-            "repo": "jwt-opa",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java SDK",
-          "description": "Java SDK for interacting with OPA (documentation)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-16T02:43:32Z",
-            "owner": "open-policy-agent",
-            "repo": "opa-java",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gradle",
-          "description": "OPA plugin for Gradle",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-03-01T11:34:54Z",
-            "owner": "Bisnode",
-            "repo": "opa-gradle-plugin",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spring Boot Starter for OPA ABAC",
-          "description": "Spring-native ABAC authorization backed by OPA: method security, hierarchical resource authorization, and partial-evaluation → JPA data filtering",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T12:25:44Z",
-            "owner": "Void3110",
-            "repo": "spring-boot-starter-opa-abac",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "regorus",
-          "description": "Evaluate Rego policies in Python using Regorus, a fast, lightweight Rego interpreter written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T14:28:59Z",
-            "owner": "microsoft",
-            "repo": "regorus",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPA Python client",
-          "description": "Python client for OPA's REST API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T11:40:31Z",
-            "owner": "Turall",
-            "repo": "OPA-python-client",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rego Python",
-          "description": "Python package for interacting with Rego",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-15T18:21:36Z",
-            "owner": "open-policy-agent",
-            "repo": "rego-python",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask OPA",
-          "description": "OPA client for the Flask microframework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-16T03:26:38Z",
-            "owner": "EliuX",
-            "repo": "flask-opa",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sphinx Rego",
-          "description": "Sphinx extension that automatically documents Rego policies",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-03-18T10:15:05Z",
-            "owner": "zenitysec",
-            "repo": "sphinx-rego",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPA Python",
-          "description": "Python client library for Open Policy Agent",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-14T23:20:07Z",
-            "owner": "heliconhq",
-            "repo": "opa-python",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bottle Authorization",
-          "description": "Custom Bottle Application Authorization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-06T13:31:36Z",
-            "owner": "dolevf",
-            "repo": "bottle-acl-openpolicyagent",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "regorus",
-          "description": "Golang bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T14:28:59Z",
-            "owner": "microsoft",
-            "repo": "regorus",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fiber OPA Integration",
-          "description": "OPA integration for Fiber web framework. Enables to execute Rego policies in the middlewares.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T21:14:49Z",
-            "owner": "gofiber",
-            "repo": "contrib",
-            "stars": 304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go Example API Authorization",
-          "description": "Example API authorization using OPA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-06T10:48:57Z",
-            "owner": "open-policy-agent",
-            "repo": "example-api-authz-go",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTTP API OPA middlewares",
-          "description": "Collection of OPA middlewares for your HTTP/Gin/Fiber API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-14T11:31:55Z",
-            "owner": "Joffref",
-            "repo": "opa-middleware",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "regorus",
-          "description": "C# bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T14:28:59Z",
-            "owner": "microsoft",
-            "repo": "regorus",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C# SDK",
-          "description": "C# SDK for interacting with OPA (documentation)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-10T16:13:19Z",
-            "owner": "open-policy-agent",
-            "repo": "opa-csharp",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpaDotNet.Extensions.AspNetCore",
-          "description": "ASP.NET Core authorization infrastructure",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-03-13T04:57:58Z",
-            "owner": "me-viper",
-            "repo": "OpaDotNet.Extensions",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ASP.NET Core",
-          "description": "ASP.NET Core authorization middleware",
-          "children": []
-        }
-      ],
-      "title": ".NET"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jarl",
-          "description": "Native evaluation of Rego in the JVM (written in Clojure), via OPA's IR format (blog)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-02-01T14:04:05Z",
-            "owner": "borgeby",
-            "repo": "jarl",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clj-opa",
-          "description": "Middleware and utilities for app authorization with OPA in Clojure",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-12-12T10:04:46Z",
-            "owner": "anderseknert",
-            "repo": "clj-opa",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Clojure"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dockerfile security",
-          "description": "A collection of OPA rules to statically analyze Dockerfiles to improve security",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Open Policy Agent",
-            "last_commit": "2022-06-22T15:16:13Z",
-            "owner": "gbrindisi",
-            "repo": "dockerfile-security",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPA Docker authorization",
-          "description": "OPA to help policy-enable an existing services",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-25T09:33:07Z",
-            "owner": "open-policy-agent",
-            "repo": "opa-docker-authz",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docker Security Checker",
-          "description": "OPA Rego policies for Dockerfile Security checks using Conftest",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Open Policy Agent",
-            "last_commit": "2022-06-27T10:28:09Z",
-            "owner": "madhuakula",
-            "repo": "docker-security-checker",
-            "stars": 63
-          }
-        }
-      ],
-      "title": "Docker"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -634,11 +677,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-18T12:38:33Z",
+            "last_commit": "2026-08-19T11:23:45Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12115
+            "stars": 12118
           }
         },
         {
@@ -648,8 +692,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599724646,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:28:59Z",
+            "last_commit": "2026-08-18T20:28:12Z",
             "owner": "microsoft",
             "repo": "regorus",
             "stars": 339
@@ -662,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186678915,
             "language": "JavaScript",
             "last_commit": "2026-07-10T12:36:42Z",
             "owner": "open-policy-agent",
@@ -676,6 +722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498392105,
             "language": "Rust",
             "last_commit": "2026-08-04T08:06:26Z",
             "owner": "matrix-org",
@@ -690,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222640924,
             "language": "C#",
             "last_commit": "2026-05-26T16:00:27Z",
             "owner": "christophwille",
@@ -704,6 +752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353066403,
             "language": "Java",
             "last_commit": "2024-04-10T05:00:07Z",
             "owner": "sangkeon",
@@ -718,6 +767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392236303,
             "language": "Python",
             "last_commit": "2023-06-25T10:49:47Z",
             "owner": "a2d24",
@@ -732,6 +782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656020214,
             "language": "C#",
             "last_commit": "2026-08-04T09:44:19Z",
             "owner": "me-viper",
@@ -746,6 +797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679162647,
             "language": "C#",
             "last_commit": "2025-05-28T20:29:46Z",
             "owner": "me-viper",
@@ -760,52 +812,56 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012821936,
             "language": "Python",
             "last_commit": "2025-09-14T12:45:55Z",
             "owner": "nickdeis",
             "repo": "python-opa-wasmtime",
             "stars": 0
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Snyk CLI",
+              "description": "Test Infrastructure as Code source code for security misconfigurations and best practices in the local console. The npm-opa-wasm library is used to run WASM bundle of Rego policies to detect misconfiguration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45247496,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:37:31Z",
+                "owner": "snyk",
+                "repo": "cli",
+                "stars": 5641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "regorus",
+              "description": "Evaluate Rego policies in WASM using Regorus. Try it out at Regorus Playground.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599724646,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:28:12Z",
+                "owner": "microsoft",
+                "repo": "regorus",
+                "stars": 339
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Built with Wasm"
         }
       ],
       "title": "WebAssembly (Wasm)"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Snyk CLI",
-          "description": "Test Infrastructure as Code source code for security misconfigurations and best practices in the local console. The npm-opa-wasm library is used to run WASM bundle of Rego policies to detect misconfiguration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T12:29:59Z",
-            "owner": "snyk",
-            "repo": "cli",
-            "stars": 5641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "regorus",
-          "description": "Evaluate Rego policies in WASM using Regorus. Try it out at Regorus Playground.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T14:28:59Z",
-            "owner": "microsoft",
-            "repo": "regorus",
-            "stars": 339
-          }
-        }
-      ],
-      "title": "Built with Wasm"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -814,11 +870,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395283401,
             "language": "Go",
-            "last_commit": "2026-08-18T08:18:53Z",
+            "last_commit": "2026-08-19T12:34:02Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11655
+            "stars": 11659
           }
         },
         {
@@ -828,6 +885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154894457,
             "language": "Go",
             "last_commit": "2026-08-18T00:57:43Z",
             "owner": "open-policy-agent",
@@ -842,6 +900,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470366002,
             "language": "Go",
             "last_commit": "2026-08-17T09:43:39Z",
             "owner": "google",
@@ -856,6 +915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208185891,
             "language": "Go",
             "last_commit": "2025-11-20T02:18:14Z",
             "owner": "plexsystems",
@@ -870,8 +930,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260045679,
             "language": "Go",
-            "last_commit": "2026-08-18T08:53:38Z",
+            "last_commit": "2026-08-19T10:20:44Z",
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
@@ -884,6 +945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94342237,
             "language": "Go",
             "last_commit": "2026-08-11T06:27:27Z",
             "owner": "open-policy-agent",
@@ -898,8 +960,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262924542,
             "language": "Shell",
-            "last_commit": "2026-08-18T12:37:33Z",
+            "last_commit": "2026-08-18T14:05:23Z",
             "owner": "redhat-cop",
             "repo": "rego-policies",
             "stars": 171
@@ -912,6 +975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235880772,
             "language": "Python",
             "last_commit": "2024-04-24T21:10:25Z",
             "owner": "tmobile",
@@ -926,11 +990,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:33:11Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
+            "stars": 127
           }
         },
         {
@@ -940,6 +1005,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 430023305,
             "language": "Go",
             "last_commit": "2025-12-04T16:46:54Z",
             "owner": "sigstore",
@@ -954,6 +1020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307321901,
             "language": "Go",
             "last_commit": "2023-07-04T10:12:27Z",
             "owner": "cmacrae",
@@ -968,6 +1035,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207083512,
             "language": null,
             "last_commit": "2019-09-08T11:14:15Z",
             "owner": "k8spin",
@@ -982,6 +1050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373607447,
             "language": "Go",
             "last_commit": "2024-01-26T14:12:18Z",
             "owner": "clover",
@@ -996,6 +1065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233067876,
             "language": "Open Policy Agent",
             "last_commit": "2020-01-10T17:21:56Z",
             "owner": "tsandall",
@@ -1007,7 +1077,7 @@
       "title": "Kubernetes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1016,6 +1086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89408036,
             "language": "Go",
             "last_commit": "2026-07-16T13:11:14Z",
             "owner": "open-policy-agent",
@@ -1030,6 +1101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422917393,
             "language": "Rust",
             "last_commit": "2022-07-15T05:32:30Z",
             "owner": "inspektor-dev",
@@ -1044,6 +1116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220199630,
             "language": "Scala",
             "last_commit": "2025-04-15T18:51:10Z",
             "owner": "StyraOSS",
@@ -1058,6 +1131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241153419,
             "language": "Java",
             "last_commit": "2023-12-20T08:49:17Z",
             "owner": "jferrater",
@@ -1072,6 +1146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 856083345,
             "language": "Go",
             "last_commit": "2025-10-11T01:19:03Z",
             "owner": "umbrellaassociates",
@@ -1086,6 +1161,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 414633085,
             "language": "Java",
             "last_commit": "2024-01-31T08:32:15Z",
             "owner": "stackabletech",
@@ -1100,6 +1176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407086393,
             "language": "Open Policy Agent",
             "last_commit": "2021-11-09T13:30:37Z",
             "owner": "anderseknert",
@@ -1114,6 +1191,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 506301027,
             "language": "Java",
             "last_commit": "2026-06-11T12:02:37Z",
             "owner": "opencredo",
@@ -1125,7 +1203,7 @@
       "title": "Datasource Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1134,11 +1212,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-18T12:38:33Z",
+            "last_commit": "2026-08-19T11:23:45Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12115
+            "stars": 12118
           }
         },
         {
@@ -1148,11 +1227,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-18T12:38:33Z",
+            "last_commit": "2026-08-19T11:23:45Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12115
+            "stars": 12118
           }
         },
         {
@@ -1162,11 +1242,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-18T12:38:33Z",
+            "last_commit": "2026-08-19T11:23:45Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12115
+            "stars": 12118
           }
         },
         {
@@ -1176,11 +1257,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 803940,
             "language": "Shell",
             "last_commit": "2024-05-27T08:21:11Z",
             "owner": "scopatz",
             "repo": "nanorc",
-            "stars": 3259
+            "stars": 3261
           }
         },
         {
@@ -1190,6 +1272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246697491,
             "language": "Kotlin",
             "last_commit": "2026-08-12T15:25:13Z",
             "owner": "open-policy-agent",
@@ -1204,6 +1287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54931689,
             "language": "Vim script",
             "last_commit": "2024-01-11T02:59:06Z",
             "owner": "tsandall",
@@ -1218,6 +1302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250740501,
             "language": "Emacs Lisp",
             "last_commit": "2021-07-22T14:58:18Z",
             "owner": "psibi",
@@ -1232,6 +1317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474870332,
             "language": "JavaScript",
             "last_commit": "2026-08-18T05:20:43Z",
             "owner": "FallenAngel97",
@@ -1246,42 +1332,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1113518182,
             "language": "TypeScript",
             "last_commit": "2025-12-10T06:11:27Z",
             "owner": "HZMonama",
             "repo": "codemirror-lang-rego",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Zed Extension",
-          "description": "Zed extension for OPA and Rego leveraging Regal",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Null-ls",
-          "description": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more. Supports linting rego files.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "CodeMirror",
-          "description": "Rego mode and minimal key map for CodeMirror",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "highlight.js",
-          "description": "Rego syntax support for highlight.js",
-          "children": []
         }
       ],
       "title": "IDE and Editor Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1290,11 +1353,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180687624,
             "language": "Go",
-            "last_commit": "2026-08-17T12:43:05Z",
+            "last_commit": "2026-08-19T06:08:28Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37470
+            "stars": 37497
           }
         },
         {
@@ -1304,11 +1368,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274625369,
             "language": "Go",
             "last_commit": "2026-08-18T07:05:58Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12464
+            "stars": 12469
           }
         },
         {
@@ -1318,6 +1383,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103084166,
             "language": "Go",
             "last_commit": "2025-11-20T19:37:10Z",
             "owner": "tenable",
@@ -1332,11 +1398,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-18T12:32:24Z",
+            "last_commit": "2026-08-19T10:47:53Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2687
+            "stars": 2688
           }
         },
         {
@@ -1346,6 +1413,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 228634068,
             "language": "Open Policy Agent",
             "last_commit": "2024-09-03T09:00:01Z",
             "owner": "fugue",
@@ -1360,6 +1428,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 178277843,
             "language": "TypeScript",
             "last_commit": "2024-06-18T01:03:43Z",
             "owner": "GoogleCloudPlatform",
@@ -1374,8 +1443,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233594851,
             "language": "Open Policy Agent",
-            "last_commit": "2025-06-19T12:57:02Z",
+            "last_commit": "2026-08-19T10:52:01Z",
             "owner": "Scalr",
             "repo": "sample-tf-opa-policies",
             "stars": 179
@@ -1388,6 +1458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 584325328,
             "language": "Go",
             "last_commit": "2026-08-15T09:10:06Z",
             "owner": "terraform-linters",
@@ -1402,6 +1473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 467527969,
             "language": "Python",
             "last_commit": "2025-12-15T13:10:31Z",
             "owner": "StyraOSS",
@@ -1416,6 +1488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312616730,
             "language": "Open Policy Agent",
             "last_commit": "2022-09-26T07:24:02Z",
             "owner": "IBM-Cloud",
@@ -1430,6 +1503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224539814,
             "language": "Go",
             "last_commit": "2026-06-25T20:45:50Z",
             "owner": "pulumi",
@@ -1441,7 +1515,7 @@
       "title": "Infrastructure as Code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1450,6 +1524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436233464,
             "language": "Go",
             "last_commit": "2026-05-02T02:17:21Z",
             "owner": "anderseknert",
@@ -1464,6 +1539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473971368,
             "language": "Open Policy Agent",
             "last_commit": "2026-06-19T00:12:22Z",
             "owner": "anderseknert",
@@ -1478,6 +1554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 838584850,
             "language": "TypeScript",
             "last_commit": "2026-08-01T08:52:52Z",
             "owner": "masterpointio",
@@ -1492,6 +1569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529816302,
             "language": "C++",
             "last_commit": "2023-04-06T12:47:50Z",
             "owner": "C5T",
@@ -1506,6 +1584,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630087681,
             "language": "Go",
             "last_commit": "2025-11-24T16:45:25Z",
             "owner": "SVilgelm",
@@ -1517,7 +1596,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1526,11 +1605,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556329104,
             "language": "Go",
             "last_commit": "2026-08-11T15:07:16Z",
             "owner": "aserto-dev",
             "repo": "topaz",
-            "stars": 1358
+            "stars": 1359
           }
         },
         {
@@ -1540,8 +1620,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 592365615,
             "language": "Go",
-            "last_commit": "2026-08-17T12:11:07Z",
+            "last_commit": "2026-08-19T06:37:42Z",
             "owner": "open-policy-agent",
             "repo": "regal",
             "stars": 398
@@ -1554,8 +1635,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411456245,
             "language": "Go",
-            "last_commit": "2026-07-25T07:37:03Z",
+            "last_commit": "2026-08-19T03:40:48Z",
             "owner": "opcr-io",
             "repo": "policy",
             "stars": 259
@@ -1568,6 +1650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169977572,
             "language": "Haskell",
             "last_commit": "2022-06-30T13:38:28Z",
             "owner": "fugue",
@@ -1582,6 +1665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499463016,
             "language": "Go",
             "last_commit": "2026-02-11T06:03:32Z",
             "owner": "rond-authz",
@@ -1596,6 +1680,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436990920,
             "language": "Python",
             "last_commit": "2024-08-12T12:37:38Z",
             "owner": "authorizon",
@@ -1610,6 +1695,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237276304,
             "language": null,
             "last_commit": "2025-07-06T07:04:59Z",
             "owner": "anderseknert",
@@ -1624,6 +1710,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437084538,
             "language": "TypeScript",
             "last_commit": "2026-07-21T03:52:25Z",
             "owner": "open-policy-agent",
@@ -1638,6 +1725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501680279,
             "language": "HTML",
             "last_commit": "2025-05-19T04:44:24Z",
             "owner": "dolevf",
@@ -1652,6 +1740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491801795,
             "language": "Go",
             "last_commit": "2022-06-01T02:43:57Z",
             "owner": "onelittlenightmusic",
@@ -1666,6 +1755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204139910,
             "language": "Go",
             "last_commit": "2019-11-04T20:37:52Z",
             "owner": "ashutosh-narkar",
@@ -1680,6 +1770,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1132518785,
             "language": "Open Policy Agent",
             "last_commit": "2026-05-31T12:48:58Z",
             "owner": "Void3110",
@@ -1694,6 +1785,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322069565,
             "language": null,
             "last_commit": "2020-12-17T09:39:22Z",
             "owner": "developer-guy",
@@ -1708,6 +1800,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400198621,
             "language": "Go",
             "last_commit": "2026-06-04T13:36:28Z",
             "owner": "snyk",
@@ -1722,6 +1815,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260177553,
             "language": "Open Policy Agent",
             "last_commit": "2020-06-11T09:53:52Z",
             "owner": "mhausenblas",
@@ -1736,6 +1830,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 568814877,
             "language": "CSS",
             "last_commit": "2025-11-10T07:11:45Z",
             "owner": "srenatus",
@@ -1750,6 +1845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327961080,
             "language": "Open Policy Agent",
             "last_commit": "2021-08-01T13:04:55Z",
             "owner": "aavarghese",
@@ -1764,6 +1860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728408816,
             "language": "Go",
             "last_commit": "2026-01-30T01:33:24Z",
             "owner": "StyraOSS",
@@ -1778,6 +1875,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1111770348,
             "language": "TypeScript",
             "last_commit": "2026-05-06T08:27:18Z",
             "owner": "HZMonama",
@@ -1789,7 +1887,7 @@
       "title": "Tools and Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1798,11 +1896,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 516451110,
             "language": "PowerShell",
-            "last_commit": "2026-08-18T03:05:11Z",
+            "last_commit": "2026-08-19T12:06:45Z",
             "owner": "cisagov",
             "repo": "ScubaGear",
-            "stars": 2642
+            "stars": 2646
           }
         },
         {
@@ -1812,6 +1911,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 478093841,
             "language": "Go",
             "last_commit": "2023-10-30T12:44:34Z",
             "owner": "reposaur",
@@ -1826,8 +1926,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411709740,
             "language": "Go",
-            "last_commit": "2026-08-13T11:53:04Z",
+            "last_commit": "2026-08-19T08:56:44Z",
             "owner": "Snowflake-Labs",
             "repo": "sansshell",
             "stars": 122
@@ -1840,6 +1941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529487770,
             "language": "Go",
             "last_commit": "2026-07-10T23:20:48Z",
             "owner": "m-mizutani",
@@ -1854,6 +1956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606474191,
             "language": "TypeScript",
             "last_commit": "2026-07-17T12:53:37Z",
             "owner": "Parsifal-M",
@@ -1865,7 +1968,7 @@
       "title": "Other Usecases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1874,6 +1977,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 219365488,
             "language": "CSS",
             "last_commit": "2022-12-15T15:02:25Z",
             "owner": "charlieegan3",
@@ -1888,6 +1992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474952260,
             "language": "Open Policy Agent",
             "last_commit": "2022-03-28T12:28:55Z",
             "owner": "anderseknert",
@@ -1897,26 +2002,12 @@
         }
       ],
       "title": "Fun and Quirky"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "People"
-    },
-    {
-      "description": "Built a great OPA integration or wrote an interesting blog or article on the topic? Submit a PR! Please just make sure to include something that describes how the project uses OPA, or how OPA is otherwise related.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "For questions, discussions and announcements related to our open source projects, please join the Slack community!",
-      "items": [],
-      "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:38:34.004Z",
+    "last_updated": "2026-08-19T12:42:22.184Z",
     "original_repository": "open-policy-agent/awesome-opa",
+    "original_repository_id": 292940644,
     "original_repository_sha": "4ef13c8945827a3dc3c7a2d90a47f604f947ae03",
     "enhanced_repository": "enhansome/enhansome-opa",
     "enhanced_repository_description": null,
