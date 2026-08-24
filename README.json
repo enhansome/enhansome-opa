@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T12:10:30Z",
                 "owner": "open-policy-agent",
                 "repo": "opa",
-                "stars": 12149
+                "stars": 12150
               }
             },
             {
@@ -47,13 +47,35 @@
                 "last_commit": "2026-08-22T19:44:52Z",
                 "owner": "open-policy-agent",
                 "repo": "conftest",
-                "stars": 3247
+                "stars": 3248
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Repositories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rego Style Guide",
+              "description": "Style guide for Rego, providing pointers on best practices for policy authoring",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491898374,
+                "language": null,
+                "last_commit": "2026-06-18T17:26:34Z",
+                "owner": "open-policy-agent",
+                "repo": "rego-style-guide",
+                "stars": 205
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docs"
         }
       ],
       "title": "Official projects"
@@ -482,7 +504,7 @@
                 "archived": false,
                 "id": 361560245,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:56:27Z",
+                "last_commit": "2026-08-24T13:29:03Z",
                 "owner": "gofiber",
                 "repo": "contrib",
                 "stars": 305
@@ -522,6 +544,28 @@
           "description": null,
           "node_type": "group",
           "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OPA Library for PHP",
+              "description": "OPA client, a PSR-15 authorization middleware and a PSR-15 bundle distributor middleware",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226423183,
+                "language": "PHP",
+                "last_commit": "2024-03-06T19:35:47Z",
+                "owner": "segrax",
+                "repo": "openpolicyagent",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
         },
         {
           "children": [
@@ -574,6 +618,28 @@
           "description": null,
           "node_type": "group",
           "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "regorus",
+              "description": "Evaluate Rego policies in WASM using Regorus. Try it out at Regorus Playground.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599724646,
+                "language": "Rust",
+                "last_commit": "2026-08-20T12:40:47Z",
+                "owner": "microsoft",
+                "repo": "regorus",
+                "stars": 340
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
         },
         {
           "children": [
@@ -663,6 +729,94 @@
           "description": null,
           "node_type": "group",
           "title": "Docker"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Konveyor Forklift Validation Service",
+              "description": "VM migration suitability assessment to avoid migrating VMs that are not fit for Kubevirt. Rules are applied on all the VMs of the source provider (VMware) during the initial inventory collection, then whenever a VM configuration changes.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 315890320,
+                "language": "Open Policy Agent",
+                "last_commit": "2022-11-06T18:11:32Z",
+                "owner": "kubev2v",
+                "repo": "forklift-validation",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Containers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "regorus",
+              "description": "C++ bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599724646,
+                "language": "Rust",
+                "last_commit": "2026-08-20T12:40:47Z",
+                "owner": "microsoft",
+                "repo": "regorus",
+                "stars": 340
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CPP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "swift-opa",
+              "description": "Swift package for evaluating OPA IR Plans compiled from Rego policies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 962757724,
+                "language": "Swift",
+                "last_commit": "2026-08-14T19:51:20Z",
+                "owner": "open-policy-agent",
+                "repo": "swift-opa",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OPA Typescript SDK",
+              "description": "Typescript SDK for interacting with OPA (documentation)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820396830,
+                "language": "TypeScript",
+                "last_commit": "2025-11-20T18:10:36Z",
+                "owner": "open-policy-agent",
+                "repo": "opa-typescript",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Typescript"
         }
       ],
       "title": "Language and Platform Integrations"
@@ -682,7 +836,7 @@
             "last_commit": "2026-08-24T12:10:30Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12149
+            "stars": 12150
           }
         },
         {
@@ -875,7 +1029,7 @@
             "last_commit": "2026-08-24T11:56:49Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11684
+            "stars": 11685
           }
         },
         {
@@ -1072,9 +1226,73 @@
             "repo": "validating-and-mutating-example",
             "stars": 4
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OPA Envoy Plugin",
+              "description": "The OPA Envoy Plugin (compatible with Envoy, Istio, Gloo Edge, more)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124440925,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:07:48Z",
+                "owner": "open-policy-agent",
+                "repo": "opa-envoy-plugin",
+                "stars": 361
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Service Mesh Authorization"
         }
       ],
       "title": "Kubernetes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nomad Admission Control Proxy",
+          "description": "An admission controller that can be used as a proxy to Nomad's API for mutation and validation with builtin OPA support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 600415546,
+            "language": "Go",
+            "last_commit": "2026-08-20T08:45:11Z",
+            "owner": "mxab",
+            "repo": "nacp",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Nomad"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-terraform-compliance",
+          "description": "Curated list of OPA/Rego policy libraries, IaC scanners (Conftest, Regula, Fugue), and compliance resources for Terraform and OpenTofu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194389960,
+            "language": null,
+            "last_commit": "2026-07-29T14:43:58Z",
+            "owner": "antonbabenko",
+            "repo": "awesome-terraform-compliance",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Terraform"
     },
     {
       "description": null,
@@ -1217,7 +1435,7 @@
             "last_commit": "2026-08-24T12:10:30Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12149
+            "stars": 12150
           }
         },
         {
@@ -1232,7 +1450,7 @@
             "last_commit": "2026-08-24T12:10:30Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12149
+            "stars": 12150
           }
         },
         {
@@ -1247,7 +1465,7 @@
             "last_commit": "2026-08-24T12:10:30Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12149
+            "stars": 12150
           }
         },
         {
@@ -1262,7 +1480,7 @@
             "last_commit": "2024-05-27T08:21:11Z",
             "owner": "scopatz",
             "repo": "nanorc",
-            "stars": 3262
+            "stars": 3263
           }
         },
         {
@@ -1358,7 +1576,7 @@
             "last_commit": "2026-08-21T13:35:07Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37584
+            "stars": 37587
           }
         },
         {
@@ -1370,7 +1588,7 @@
             "archived": false,
             "id": 274625369,
             "language": "Go",
-            "last_commit": "2026-08-24T12:17:17Z",
+            "last_commit": "2026-08-24T14:04:51Z",
             "owner": "infracost",
             "repo": "infracost",
             "stars": 12487
@@ -2002,10 +2220,52 @@
         }
       ],
       "title": "Fun and Quirky"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Discussions",
+          "description": "Open Policy Agent Discussion Board",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 398046316,
+            "language": null,
+            "last_commit": "2025-03-26T10:01:52Z",
+            "owner": "open-policy-agent",
+            "repo": "community",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Support and Community"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OPA Guidebook",
+          "description": "Open source, free book on Open Policy Agent, by Sangkeon Lee (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 446103870,
+            "language": "WebAssembly",
+            "last_commit": "2023-11-22T01:32:34Z",
+            "owner": "sangkeon",
+            "repo": "opaguide_src",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Recommended Reading"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:42:50.785Z",
+    "last_updated": "2026-08-24T14:16:26.757Z",
     "original_repository": "open-policy-agent/awesome-opa",
     "original_repository_id": 292940644,
     "original_repository_sha": "4ef13c8945827a3dc3c7a2d90a47f604f947ae03",
