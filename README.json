@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 48714685,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:32:54Z",
+                "last_commit": "2026-08-28T20:50:31Z",
                 "owner": "open-policy-agent",
                 "repo": "opa",
-                "stars": 12171
-              }
+                "stars": 12174
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 154894457,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:33:52Z",
+                "last_commit": "2026-08-28T21:03:17Z",
                 "owner": "open-policy-agent",
                 "repo": "gatekeeper",
-                "stars": 4268
-              }
+                "stars": 4269
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "open-policy-agent",
                 "repo": "conftest",
                 "stars": 3252
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "open-policy-agent",
                 "repo": "rego-style-guide",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -96,7 +100,8 @@
             "owner": "Cigna",
             "repo": "confectionery",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "raspbernetes",
             "repo": "k8s-security-policies",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -126,7 +132,8 @@
             "owner": "redhat-cop",
             "repo": "rego-policies",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -141,7 +148,8 @@
             "owner": "kubescape",
             "repo": "regolibrary",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -156,7 +164,24 @@
             "owner": "aquasecurity",
             "repo": "appshield",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Policy Hub CLI",
+          "description": "CLI tool that makes Rego policies searchable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301482830,
+            "language": "Go",
+            "last_commit": "2022-02-05T18:46:53Z",
+            "owner": "policy-hub",
+            "repo": "policy-hub-cli",
+            "stars": 106
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -171,22 +196,8 @@
             "owner": "open-policy-agent",
             "repo": "library",
             "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Policy Hub CLI",
-          "description": "CLI tool that makes Rego policies searchable",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 301482830,
-            "language": "Go",
-            "last_commit": "2022-02-05T18:46:53Z",
-            "owner": "policy-hub",
-            "repo": "policy-hub-cli",
-            "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -201,7 +212,8 @@
             "owner": "rallyhealth",
             "repo": "conftest-policy-packs",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -212,11 +224,12 @@
             "archived": false,
             "id": 952106577,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-27T17:32:02Z",
+            "last_commit": "2026-08-28T16:26:47Z",
             "owner": "Principled-Evolution",
             "repo": "gopal",
-            "stars": 6
-          }
+            "stars": 7
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -231,7 +244,8 @@
             "owner": "kingztech2019",
             "repo": "agt-policies-nigeria",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Policy Packages"
@@ -254,7 +268,8 @@
                 "owner": "borgeby",
                 "repo": "jarl",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -269,7 +284,8 @@
                 "owner": "Bisnode",
                 "repo": "opa-java-client",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -280,11 +296,12 @@
                 "archived": false,
                 "id": 375046549,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:11:22Z",
+                "last_commit": "2026-08-27T22:48:53Z",
                 "owner": "xenit-eu",
                 "repo": "thunx",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -299,7 +316,8 @@
                 "owner": "Bisnode",
                 "repo": "opa-spring-security",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -314,7 +332,8 @@
                 "owner": "massenz",
                 "repo": "jwt-opa",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -329,7 +348,8 @@
                 "owner": "open-policy-agent",
                 "repo": "opa-java",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -344,7 +364,8 @@
                 "owner": "Bisnode",
                 "repo": "opa-gradle-plugin",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -359,7 +380,8 @@
                 "owner": "Void3110",
                 "repo": "spring-boot-starter-opa-abac",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -377,11 +399,12 @@
                 "archived": false,
                 "id": 599724646,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:42:14Z",
+                "last_commit": "2026-08-28T15:10:03Z",
                 "owner": "microsoft",
                 "repo": "regorus",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -396,7 +419,8 @@
                 "owner": "Turall",
                 "repo": "OPA-python-client",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -411,7 +435,8 @@
                 "owner": "open-policy-agent",
                 "repo": "rego-python",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -426,7 +451,8 @@
                 "owner": "EliuX",
                 "repo": "flask-opa",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -441,7 +467,8 @@
                 "owner": "zenitysec",
                 "repo": "sphinx-rego",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -456,7 +483,8 @@
                 "owner": "heliconhq",
                 "repo": "opa-python",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -471,7 +499,8 @@
                 "owner": "dolevf",
                 "repo": "bottle-acl-openpolicyagent",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -489,11 +518,12 @@
                 "archived": false,
                 "id": 599724646,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:42:14Z",
+                "last_commit": "2026-08-28T15:10:03Z",
                 "owner": "microsoft",
                 "repo": "regorus",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -504,11 +534,12 @@
                 "archived": false,
                 "id": 361560245,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:12:41Z",
+                "last_commit": "2026-08-28T21:09:46Z",
                 "owner": "gofiber",
                 "repo": "contrib",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -523,7 +554,8 @@
                 "owner": "open-policy-agent",
                 "repo": "example-api-authz-go",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -538,7 +570,8 @@
                 "owner": "Joffref",
                 "repo": "opa-middleware",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -560,7 +593,8 @@
                 "owner": "segrax",
                 "repo": "openpolicyagent",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -578,11 +612,12 @@
                 "archived": false,
                 "id": 599724646,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:42:14Z",
+                "last_commit": "2026-08-28T15:10:03Z",
                 "owner": "microsoft",
                 "repo": "regorus",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -597,7 +632,8 @@
                 "owner": "open-policy-agent",
                 "repo": "opa-csharp",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -612,7 +648,8 @@
                 "owner": "me-viper",
                 "repo": "OpaDotNet.Extensions",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -630,11 +667,12 @@
                 "archived": false,
                 "id": 599724646,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:42:14Z",
+                "last_commit": "2026-08-28T15:10:03Z",
                 "owner": "microsoft",
                 "repo": "regorus",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -656,7 +694,8 @@
                 "owner": "borgeby",
                 "repo": "jarl",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -671,7 +710,8 @@
                 "owner": "anderseknert",
                 "repo": "clj-opa",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -693,7 +733,8 @@
                 "owner": "gbrindisi",
                 "repo": "dockerfile-security",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -708,7 +749,8 @@
                 "owner": "open-policy-agent",
                 "repo": "opa-docker-authz",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -723,7 +765,8 @@
                 "owner": "madhuakula",
                 "repo": "docker-security-checker",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -745,7 +788,8 @@
                 "owner": "kubev2v",
                 "repo": "forklift-validation",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -763,11 +807,12 @@
                 "archived": false,
                 "id": 599724646,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:42:14Z",
+                "last_commit": "2026-08-28T15:10:03Z",
                 "owner": "microsoft",
                 "repo": "regorus",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -789,7 +834,8 @@
                 "owner": "open-policy-agent",
                 "repo": "swift-opa",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -811,7 +857,8 @@
                 "owner": "open-policy-agent",
                 "repo": "opa-typescript",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -833,11 +880,12 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-27T21:32:54Z",
+            "last_commit": "2026-08-28T20:50:31Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12171
-          }
+            "stars": 12174
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -848,11 +896,12 @@
             "archived": false,
             "id": 599724646,
             "language": "Rust",
-            "last_commit": "2026-08-27T16:42:14Z",
+            "last_commit": "2026-08-28T15:10:03Z",
             "owner": "microsoft",
             "repo": "regorus",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -867,7 +916,8 @@
             "owner": "open-policy-agent",
             "repo": "npm-opa-wasm",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -882,7 +932,8 @@
             "owner": "matrix-org",
             "repo": "rust-opa-wasm",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -897,7 +948,8 @@
             "owner": "christophwille",
             "repo": "dotnet-opa-wasm",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -912,7 +964,8 @@
             "owner": "sangkeon",
             "repo": "java-opa-wasm",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -927,7 +980,8 @@
             "owner": "a2d24",
             "repo": "python-opa-wasm",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -942,7 +996,8 @@
             "owner": "me-viper",
             "repo": "OpaDotNet",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -957,7 +1012,8 @@
             "owner": "me-viper",
             "repo": "OpaDotNet.Compilation",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -972,7 +1028,8 @@
             "owner": "nickdeis",
             "repo": "python-opa-wasmtime",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "children": [
@@ -985,11 +1042,12 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:38:27Z",
+                "last_commit": "2026-08-28T19:11:32Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5650
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             },
             {
               "node_type": "item",
@@ -1000,11 +1058,12 @@
                 "archived": false,
                 "id": 599724646,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:42:14Z",
+                "last_commit": "2026-08-28T15:10:03Z",
                 "owner": "microsoft",
                 "repo": "regorus",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -1026,11 +1085,12 @@
             "archived": false,
             "id": 395283401,
             "language": "Go",
-            "last_commit": "2026-08-27T17:12:28Z",
+            "last_commit": "2026-08-28T15:56:49Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11695
-          }
+            "stars": 11700
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1041,11 +1101,12 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-27T21:33:52Z",
+            "last_commit": "2026-08-28T21:03:17Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4268
-          }
+            "stars": 4269
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1121,8 @@
             "owner": "google",
             "repo": "gke-policy-automation",
             "stars": 526
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1137,8 @@
             "owner": "plexsystems",
             "repo": "konstraint",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1153,8 @@
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1101,11 +1165,12 @@
             "archived": false,
             "id": 94342237,
             "language": "Go",
-            "last_commit": "2026-08-11T06:27:27Z",
+            "last_commit": "2026-08-27T23:47:04Z",
             "owner": "open-policy-agent",
             "repo": "kube-mgmt",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1185,8 @@
             "owner": "redhat-cop",
             "repo": "rego-policies",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1135,7 +1201,8 @@
             "owner": "tmobile",
             "repo": "magtape",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1146,11 +1213,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:38:46Z",
+            "last_commit": "2026-08-28T20:37:47Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1233,8 @@
             "owner": "sigstore",
             "repo": "cosign-gatekeeper-provider",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1249,8 @@
             "owner": "cmacrae",
             "repo": "kove",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1265,8 @@
             "owner": "k8spin",
             "repo": "opa-k8s-development",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1281,8 @@
             "owner": "clover",
             "repo": "gatekeeper-conftest",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1297,8 @@
             "owner": "tsandall",
             "repo": "validating-and-mutating-example",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "children": [
@@ -1238,11 +1311,12 @@
                 "archived": false,
                 "id": 124440925,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:32:04Z",
+                "last_commit": "2026-08-28T10:44:56Z",
                 "owner": "open-policy-agent",
                 "repo": "opa-envoy-plugin",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T21:42:31.291Z"
             }
           ],
           "description": null,
@@ -1268,7 +1342,8 @@
             "owner": "mxab",
             "repo": "nacp",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Nomad"
@@ -1289,7 +1364,8 @@
             "owner": "antonbabenko",
             "repo": "awesome-terraform-compliance",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Terraform"
@@ -1310,7 +1386,8 @@
             "owner": "open-policy-agent",
             "repo": "contrib",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1325,7 +1402,8 @@
             "owner": "inspektor-dev",
             "repo": "inspektor",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1340,7 +1418,8 @@
             "owner": "StyraOSS",
             "repo": "opa-kafka-plugin",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1355,7 +1434,8 @@
             "owner": "jferrater",
             "repo": "opa-data-filter-spring-boot-starter",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1370,7 +1450,8 @@
             "owner": "umbrellaassociates",
             "repo": "opa-spicedb",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1385,7 +1466,8 @@
             "owner": "stackabletech",
             "repo": "trino-opa-authorizer",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1400,7 +1482,8 @@
             "owner": "anderseknert",
             "repo": "opa-google-calendar",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1415,7 +1498,8 @@
             "owner": "opencredo",
             "repo": "opa-single-message-transformer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Datasource Integrations"
@@ -1432,11 +1516,12 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-27T21:32:54Z",
+            "last_commit": "2026-08-28T20:50:31Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12171
-          }
+            "stars": 12174
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1447,11 +1532,12 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-27T21:32:54Z",
+            "last_commit": "2026-08-28T20:50:31Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12171
-          }
+            "stars": 12174
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1462,11 +1548,12 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-27T21:32:54Z",
+            "last_commit": "2026-08-28T20:50:31Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12171
-          }
+            "stars": 12174
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1481,7 +1568,8 @@
             "owner": "scopatz",
             "repo": "nanorc",
             "stars": 3262
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1492,11 +1580,12 @@
             "archived": false,
             "id": 246697491,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T19:50:35Z",
+            "last_commit": "2026-08-28T15:17:32Z",
             "owner": "open-policy-agent",
             "repo": "opa-idea-plugin",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1511,7 +1600,8 @@
             "owner": "tsandall",
             "repo": "vim-rego",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1526,7 +1616,8 @@
             "owner": "psibi",
             "repo": "rego-mode",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1541,7 +1632,8 @@
             "owner": "FallenAngel97",
             "repo": "tree-sitter-rego",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1556,7 +1648,8 @@
             "owner": "HZMonama",
             "repo": "codemirror-lang-rego",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "IDE and Editor Integrations"
@@ -1573,11 +1666,12 @@
             "archived": false,
             "id": 180687624,
             "language": "Go",
-            "last_commit": "2026-08-27T14:53:48Z",
+            "last_commit": "2026-08-28T12:50:22Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37659
-          }
+            "stars": 37678
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1591,8 +1685,9 @@
             "last_commit": "2026-08-24T14:26:09Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12493
-          }
+            "stars": 12495
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1607,7 +1702,8 @@
             "owner": "tenable",
             "repo": "terrascan",
             "stars": 5211
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1621,8 +1717,9 @@
             "last_commit": "2026-08-25T21:02:29Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2695
-          }
+            "stars": 2696
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1637,7 +1734,8 @@
             "owner": "fugue",
             "repo": "regula",
             "stars": 966
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1652,7 +1750,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "policy-library",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1667,7 +1766,8 @@
             "owner": "Scalr",
             "repo": "sample-tf-opa-policies",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1682,7 +1782,8 @@
             "owner": "terraform-linters",
             "repo": "tflint-ruleset-opa",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1697,7 +1798,8 @@
             "owner": "StyraOSS",
             "repo": "opa-aws-cloudformation-hook",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1712,7 +1814,8 @@
             "owner": "IBM-Cloud",
             "repo": "terraform-opa-ibm",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1727,7 +1830,8 @@
             "owner": "pulumi",
             "repo": "pulumi-policy-opa",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Infrastructure as Code"
@@ -1748,7 +1852,8 @@
             "owner": "anderseknert",
             "repo": "kube-review",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1763,7 +1868,8 @@
             "owner": "anderseknert",
             "repo": "rego-test-assertions",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1778,7 +1884,8 @@
             "owner": "masterpointio",
             "repo": "github-action-opa-rego-test",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1793,7 +1900,8 @@
             "owner": "C5T",
             "repo": "ocov",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1808,7 +1916,8 @@
             "owner": "SVilgelm",
             "repo": "opa-codecov",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Testing"
@@ -1829,7 +1938,8 @@
             "owner": "aserto-dev",
             "repo": "topaz",
             "stars": 1360
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1844,7 +1954,8 @@
             "owner": "open-policy-agent",
             "repo": "regal",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1859,7 +1970,8 @@
             "owner": "opcr-io",
             "repo": "policy",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1874,7 +1986,8 @@
             "owner": "fugue",
             "repo": "fregot",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1889,7 +2002,8 @@
             "owner": "rond-authz",
             "repo": "rond",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1903,8 +2017,9 @@
             "last_commit": "2024-08-12T12:37:38Z",
             "owner": "authorizon",
             "repo": "opal",
-            "stars": 99
-          }
+            "stars": 98
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1919,7 +2034,8 @@
             "owner": "anderseknert",
             "repo": "pre-commit-opa",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1934,7 +2050,8 @@
             "owner": "open-policy-agent",
             "repo": "setup-opa",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1949,7 +2066,8 @@
             "owner": "dolevf",
             "repo": "Open-Policy-Agent-Alfred",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1964,7 +2082,8 @@
             "owner": "onelittlenightmusic",
             "repo": "opactl",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1979,7 +2098,8 @@
             "owner": "ashutosh-narkar",
             "repo": "openapi-to-rego",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -1994,7 +2114,8 @@
             "owner": "Void3110",
             "repo": "rego-skill",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2009,7 +2130,8 @@
             "owner": "developer-guy",
             "repo": "monitor-opa-gatekeeper",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2024,7 +2146,8 @@
             "owner": "snyk",
             "repo": "snyk-iac-rules",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2039,7 +2162,8 @@
             "owner": "mhausenblas",
             "repo": "temporal-opa",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2054,7 +2178,8 @@
             "owner": "srenatus",
             "repo": "opa-explorer",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2069,7 +2194,8 @@
             "owner": "aavarghese",
             "repo": "opa-schema-examples",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2084,7 +2210,8 @@
             "owner": "StyraOSS",
             "repo": "mcov",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2099,7 +2226,8 @@
             "owner": "HZMonama",
             "repo": "regolab",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Tools and Utilities"
@@ -2116,11 +2244,12 @@
             "archived": false,
             "id": 516451110,
             "language": "PowerShell",
-            "last_commit": "2026-08-27T21:03:41Z",
+            "last_commit": "2026-08-28T19:10:37Z",
             "owner": "cisagov",
             "repo": "ScubaGear",
             "stars": 2651
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2135,7 +2264,8 @@
             "owner": "reposaur",
             "repo": "reposaur",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2146,11 +2276,12 @@
             "archived": false,
             "id": 411709740,
             "language": "Go",
-            "last_commit": "2026-08-27T15:32:43Z",
+            "last_commit": "2026-08-28T10:04:37Z",
             "owner": "Snowflake-Labs",
             "repo": "sansshell",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2165,7 +2296,8 @@
             "owner": "m-mizutani",
             "repo": "goast",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2180,7 +2312,8 @@
             "owner": "Parsifal-M",
             "repo": "backstage-opa-plugins",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Other Usecases"
@@ -2201,7 +2334,8 @@
             "owner": "charlieegan3",
             "repo": "policing-christmas-trees",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         },
         {
           "node_type": "item",
@@ -2216,7 +2350,8 @@
             "owner": "anderseknert",
             "repo": "colorized",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Fun and Quirky"
@@ -2237,7 +2372,8 @@
             "owner": "open-policy-agent",
             "repo": "community",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Support and Community"
@@ -2258,14 +2394,15 @@
             "owner": "sangkeon",
             "repo": "opaguide_src",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:42:31.291Z"
         }
       ],
       "title": "Recommended Reading"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:42:42.263Z",
+    "last_updated": "2026-08-28T21:42:31.291Z",
     "original_repository_info": {
       "archived": false,
       "id": 292940644,
