@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+                "homepage": "https://www.openpolicyagent.org",
                 "id": 48714685,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:50:31Z",
+                "open_issues": 336,
                 "owner": "open-policy-agent",
                 "repo": "opa",
-                "stars": 12174
+                "stars": 12174,
+                "topics": [
+                  "authorization",
+                  "cloud-native",
+                  "compliance",
+                  "declarative",
+                  "json",
+                  "opa",
+                  "open-policy-agent",
+                  "policy"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -28,12 +42,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐊 Policy Controller for Kubernetes",
+                "homepage": "https://open-policy-agent.github.io/gatekeeper/",
                 "id": 154894457,
                 "language": "Go",
-                "last_commit": "2026-08-28T21:03:17Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:53:04Z",
+                "open_issues": 187,
                 "owner": "open-policy-agent",
                 "repo": "gatekeeper",
-                "stars": 4269
+                "stars": 4269,
+                "topics": [
+                  "admission",
+                  "cncf",
+                  "gatekeeper",
+                  "hacktoberfest",
+                  "kubernetes",
+                  "mutation",
+                  "opa",
+                  "policy",
+                  "policy-engine",
+                  "security",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -44,12 +75,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write tests against structured configuration data using the Open Policy Agent Rego query language",
+                "homepage": "https://conftest.dev",
                 "id": 178249461,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T17:43:43Z",
+                "open_issues": 51,
                 "owner": "open-policy-agent",
                 "repo": "conftest",
-                "stars": 3252
+                "stars": 3252,
+                "topics": [
+                  "kubernetes",
+                  "open-policy-agent",
+                  "openpolicyagent",
+                  "rego",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -67,12 +109,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Style guide for Rego",
+                "homepage": "https://docs.styra.com/opa/rego-style-guide",
                 "id": 491898374,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T17:26:34Z",
+                "open_issues": 5,
                 "owner": "open-policy-agent",
                 "repo": "rego-style-guide",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "best-practices",
+                  "opa",
+                  "open-policy-agent",
+                  "policy-as-code",
+                  "rego",
+                  "style-guide",
+                  "styra"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -94,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of rules for Conftest used to detect misconfigurations within Terraform configuration files",
+            "homepage": null,
             "id": 347090899,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-20T16:47:55Z",
+            "open_issues": 0,
             "owner": "Cigna",
             "repo": "confectionery",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -110,12 +170,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository offers a comprehensive library of security policies designed to enhance the security of Kubernetes cluster configurations. The policies are developed in accordance with the CIS Kubernetes benchmark.",
+            "homepage": "https://raspbernetes.github.io/",
             "id": 272838811,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-20T16:09:36Z",
+            "open_issues": 15,
             "owner": "raspbernetes",
             "repo": "k8s-security-policies",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "benchmark",
+              "cis",
+              "cis-kubernetes-benchmark",
+              "conftest",
+              "gatekeeper",
+              "kubernetes",
+              "kubernetes-clusters",
+              "kubesec",
+              "open-policy-agent",
+              "raspbernetes",
+              "rego-files",
+              "rego-policy",
+              "security",
+              "violation"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -126,12 +206,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rego policies collection",
+            "homepage": null,
             "id": 262924542,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:58:26Z",
+            "open_issues": 3,
             "owner": "redhat-cop",
             "repo": "rego-policies",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "conftest",
+              "container-cop",
+              "gatekeeper",
+              "opa",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -142,12 +233,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The regolibrary package contains the controls Kubescape uses for detecting misconfigurations in Kubernetes manifests.",
+            "homepage": null,
             "id": 401947582,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T18:57:52Z",
+            "open_issues": 12,
             "owner": "kubescape",
             "repo": "regolibrary",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "compliance",
+              "kubernetes",
+              "kubescape",
+              "opa",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -158,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Security configuration checks for popular cloud native applications and infrastructure.",
+            "homepage": null,
             "id": 256213133,
             "language": "Open Policy Agent",
+            "license": null,
             "last_commit": "2022-02-16T14:24:51Z",
+            "open_issues": 10,
             "owner": "aquasecurity",
             "repo": "appshield",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -174,12 +281,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for searching Rego policies",
+            "homepage": null,
             "id": 301482830,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-02-05T18:46:53Z",
+            "open_issues": 8,
             "owner": "policy-hub",
             "repo": "policy-hub-cli",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "cloud-native",
+              "cncf",
+              "hacktoberfest",
+              "kubernetes",
+              "opa",
+              "openpolicyagent",
+              "policies",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -190,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Policy Agent project standard library.",
+            "homepage": null,
             "id": 101445529,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-16T10:17:42Z",
+            "open_issues": 3,
             "owner": "open-policy-agent",
             "repo": "library",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -206,12 +332,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rego policies for enterprise-scale Compliance-as-Code with OPA Conftest.",
+            "homepage": "https://rallyhealth.github.io/conftest-policy-packs/",
             "id": 371760649,
             "language": "Open Policy Agent",
+            "license": "MIT",
             "last_commit": "2023-10-19T13:43:14Z",
+            "open_issues": 8,
             "owner": "rallyhealth",
             "repo": "conftest-policy-packs",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "conftest",
+              "opa",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -222,12 +357,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Executable Rego policies for AI compliance, each traceable to a named article or control: EU AI Act, UK pro-innovation principles and UK GDPR Arts 22A-22D, NIST AI RMF, PRA SS1/23, FCA Consumer Duty, ICAO/FAA/EASA aviation, FERPA, SRA/BSB legal practice. Per-article coverage matrices state what is implemented and what is not.",
+            "homepage": "https://principledevolution.ai/gopal",
             "id": 952106577,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-28T16:26:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:07:49Z",
+            "open_issues": 12,
             "owner": "Principled-Evolution",
             "repo": "gopal",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-audit",
+              "ai-compliance",
+              "ai-governance",
+              "easa",
+              "eu-ai-act",
+              "faa",
+              "fair-lending",
+              "fca",
+              "ferpa",
+              "icao",
+              "legaltech",
+              "nist-ai-rmf",
+              "opa",
+              "open-policy-agent",
+              "policy-as-code",
+              "rego",
+              "responsible-ai",
+              "trustworthy-ai",
+              "uk-ai-regulation",
+              "uk-gdpr"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -238,12 +399,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nigerian & African AI agent governance policies for Microsoft AGT — NDPA 2023, CBN, NFIU/AML, BVN/NIN, POS geo-fencing, POPIA",
+            "homepage": null,
             "id": 1269050243,
             "language": "Open Policy Agent",
+            "license": "MIT",
             "last_commit": "2026-07-04T04:07:48Z",
+            "open_issues": 0,
             "owner": "kingztech2019",
             "repo": "agt-policies-nigeria",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "africa",
+              "agent-governance-toolkit",
+              "agt",
+              "ai-agents",
+              "ai-governance",
+              "cbn",
+              "compliance",
+              "fintech",
+              "llm",
+              "ndpa",
+              "nfiu",
+              "nigeria",
+              "open-source",
+              "policy",
+              "popia"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -262,12 +444,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jarl is an Open Policy Agent (OPA) evaluator for the JVM and Javascript, written in Clojure(Script)",
+                "homepage": null,
                 "id": 477504053,
                 "language": "Clojure",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-01T14:04:05Z",
+                "open_issues": 25,
                 "owner": "borgeby",
                 "repo": "jarl",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "clojure",
+                  "clojurescript",
+                  "jvm",
+                  "opa",
+                  "rego"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -278,12 +471,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 236950603,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-28T01:43:26Z",
+                "open_issues": 10,
                 "owner": "Bisnode",
                 "repo": "opa-java-client",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "java",
+                  "javaclient",
+                  "opa",
+                  "openpolicyagent"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -294,12 +497,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pluggable ABAC/PBAC middleware",
+                "homepage": null,
                 "id": 375046549,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:48:53Z",
+                "open_issues": 1,
                 "owner": "xenit-eu",
                 "repo": "thunx",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "java",
+                  "openpolicyagent",
+                  "querydsl",
+                  "spring",
+                  "spring-cloud-gateway",
+                  "spring-data-jpa",
+                  "spring-security"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -310,12 +526,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Policy Agent for Spring Security",
+                "homepage": null,
                 "id": 242080215,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-13T07:48:21Z",
+                "open_issues": 8,
                 "owner": "Bisnode",
                 "repo": "opa-spring-security",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "jwt",
+                  "opa",
+                  "opa-spring-filter",
+                  "opa-spring-security",
+                  "openpolicyagent",
+                  "spring-boot",
+                  "spring-security"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -326,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring Boot (reactive) Integration with Open Policy Agent (OPA)",
+                "homepage": null,
                 "id": 331504102,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-01T06:42:20Z",
+                "open_issues": 14,
                 "owner": "massenz",
                 "repo": "jwt-opa",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -342,12 +578,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A driver to connect via Java to Open Policy Agent (OPA) deployments.",
+                "homepage": "https://open-policy-agent.github.io/opa-java/",
                 "id": 767723398,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-16T02:43:32Z",
+                "open_issues": 10,
                 "owner": "open-policy-agent",
                 "repo": "opa-java",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "opa",
+                  "open-policy-agent",
+                  "sdk-java"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -358,12 +603,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin adding various tasks to help out integrating Open Policy Agent (OPA) in Gradle builds.",
+                "homepage": null,
                 "id": 221184575,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-01T11:34:54Z",
+                "open_issues": 11,
                 "owner": "Bisnode",
                 "repo": "opa-gradle-plugin",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "gradle",
+                  "gradle-plugin",
+                  "opa",
+                  "openpolicyagent",
+                  "policies",
+                  "policy",
+                  "rego"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -374,12 +632,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-grade Spring Boot starter for ABAC authorization with Open Policy Agent",
+                "homepage": "https://central.sonatype.com/artifact/dev.dmitriikonovalov/opa-abac-spring-boot-starter",
                 "id": 1195350084,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T07:12:39Z",
+                "open_issues": 0,
                 "owner": "Void3110",
                 "repo": "spring-boot-starter-opa-abac",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "agentic-workflows",
+                  "ai-assisted-development",
+                  "ai-engineering",
+                  "authorization",
+                  "claude-code",
+                  "java",
+                  "opa",
+                  "open-policy-agent",
+                  "partial-evaluation",
+                  "policy-as-code",
+                  "rego",
+                  "spring-boot",
+                  "spring-boot-starter",
+                  "spring-security"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -397,12 +677,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.",
+                "homepage": null,
                 "id": 599724646,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:10:03Z",
+                "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "regorus",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "c",
+                  "confidential-computing",
+                  "cpp",
+                  "csharp",
+                  "golang",
+                  "interpreter",
+                  "java",
+                  "javascript",
+                  "no-std",
+                  "opa",
+                  "policy-as-code",
+                  "python",
+                  "rego",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -413,12 +714,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python client for Open Policy Agent ",
+                "homepage": null,
                 "id": 225400958,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T11:40:31Z",
+                "open_issues": 0,
                 "owner": "Turall",
                 "repo": "OPA-python-client",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "opa",
+                  "opa-client",
+                  "open-policy-agent",
+                  "open-policy-agent-python",
+                  "policy",
+                  "python",
+                  "python-opa-client"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -429,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for interacting with Rego ASTs.",
+                "homepage": null,
                 "id": 139075854,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-15T18:21:36Z",
+                "open_issues": 1,
                 "owner": "open-policy-agent",
                 "repo": "rego-python",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -445,12 +764,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flask extension for OPA",
+                "homepage": null,
                 "id": 152926471,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-16T03:26:38Z",
+                "open_issues": 2,
                 "owner": "EliuX",
                 "repo": "flask-opa",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "client-library",
+                  "cloud",
+                  "flask-extension",
+                  "microservices-architecture",
+                  "opa",
+                  "policy",
+                  "python3",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -461,12 +794,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Sphinx extension that automatically documents Open Policy Agent Rego policies",
+                "homepage": "https://zenity.io",
                 "id": 359463379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-18T10:15:05Z",
+                "open_issues": 0,
                 "owner": "zenitysec",
                 "repo": "sphinx-rego",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "conftest",
+                  "documentation-tool",
+                  "opa",
+                  "open-policy-agent",
+                  "open-policy-agent-python",
+                  "rego",
+                  "sphinx"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -477,12 +823,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python client library for Open Policy Framework (OPA).",
+                "homepage": "https://opa-python.readthedocs.io/en/latest/",
                 "id": 577089623,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-14T23:20:07Z",
+                "open_issues": 4,
                 "owner": "heliconhq",
                 "repo": "opa-python",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -493,12 +844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add Authorization to Python's Bottle Framework with Open Policy Agent",
+                "homepage": null,
                 "id": 332813559,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-06T13:31:36Z",
+                "open_issues": 0,
                 "owner": "dolevf",
                 "repo": "bottle-acl-openpolicyagent",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -516,12 +872,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.",
+                "homepage": null,
                 "id": 599724646,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:10:03Z",
+                "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "regorus",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "c",
+                  "confidential-computing",
+                  "cpp",
+                  "csharp",
+                  "golang",
+                  "interpreter",
+                  "java",
+                  "javascript",
+                  "no-std",
+                  "opa",
+                  "policy-as-code",
+                  "python",
+                  "rego",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -532,12 +909,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧬 Repository for third party middlewares with dependencies",
+                "homepage": "https://docs.gofiber.io/contrib/",
                 "id": 361560245,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:09:46Z",
+                "open_issues": 25,
                 "owner": "gofiber",
                 "repo": "contrib",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "golang",
+                  "hacktoberfest",
+                  "middleware"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -548,12 +934,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example Go service that uses OPA for API authorization.",
+                "homepage": null,
                 "id": 144881883,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-06T10:48:57Z",
+                "open_issues": 1,
                 "owner": "open-policy-agent",
                 "repo": "example-api-authz-go",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -564,12 +955,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "opa-middleware gather all the middlewares you need to use Open Policy Agent with your API",
+                "homepage": null,
                 "id": 528574963,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-14T11:31:55Z",
+                "open_issues": 2,
                 "owner": "Joffref",
                 "repo": "opa-middleware",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -587,12 +983,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-7 and PSR-15 OPA Authorization Middleware and Open Policy Agent Client",
+                "homepage": null,
                 "id": 226423183,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-03-06T19:35:47Z",
+                "open_issues": 0,
                 "owner": "segrax",
                 "repo": "openpolicyagent",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "authorization",
+                  "authorization-middleware",
+                  "middlewares",
+                  "opa",
+                  "openpolicyagent",
+                  "php",
+                  "psr-15",
+                  "psr-7"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -610,12 +1020,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.",
+                "homepage": null,
                 "id": 599724646,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:10:03Z",
+                "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "regorus",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "c",
+                  "confidential-computing",
+                  "cpp",
+                  "csharp",
+                  "golang",
+                  "interpreter",
+                  "java",
+                  "javascript",
+                  "no-std",
+                  "opa",
+                  "policy-as-code",
+                  "python",
+                  "rego",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -626,12 +1057,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A driver to connect via C# to Open Policy Agent (OPA) deployments",
+                "homepage": "https://open-policy-agent.github.io/opa-csharp/",
                 "id": 768260346,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:18:57Z",
+                "open_issues": 11,
                 "owner": "open-policy-agent",
                 "repo": "opa-csharp",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "opa",
+                  "open-policy-agent",
+                  "sdk-csharp",
+                  "sdk-dotnet",
+                  "sdk-net"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -642,12 +1084,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Policy Agent dotnet core extensions",
+                "homepage": "https://me-viper.github.io/OpaDotNet/",
                 "id": 666279363,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-03-13T04:57:58Z",
+                "open_issues": 0,
                 "owner": "me-viper",
                 "repo": "OpaDotNet.Extensions",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "aspnetcore",
+                  "opa",
+                  "openpolicyagent",
+                  "yarp"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -665,12 +1117,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.",
+                "homepage": null,
                 "id": 599724646,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:10:03Z",
+                "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "regorus",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "c",
+                  "confidential-computing",
+                  "cpp",
+                  "csharp",
+                  "golang",
+                  "interpreter",
+                  "java",
+                  "javascript",
+                  "no-std",
+                  "opa",
+                  "policy-as-code",
+                  "python",
+                  "rego",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -688,12 +1161,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jarl is an Open Policy Agent (OPA) evaluator for the JVM and Javascript, written in Clojure(Script)",
+                "homepage": null,
                 "id": 477504053,
                 "language": "Clojure",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-01T14:04:05Z",
+                "open_issues": 25,
                 "owner": "borgeby",
                 "repo": "jarl",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "clojure",
+                  "clojurescript",
+                  "jvm",
+                  "opa",
+                  "rego"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -704,12 +1188,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clojure client for Open Policy Agent",
+                "homepage": null,
                 "id": 327662956,
                 "language": "Clojure",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-12T10:04:46Z",
+                "open_issues": 5,
                 "owner": "anderseknert",
                 "repo": "clj-opa",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "authorization",
+                  "authorization-middleware",
+                  "clj-opa",
+                  "compojure",
+                  "middleware",
+                  "opa",
+                  "open-policy-agent",
+                  "rego",
+                  "ring"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -727,12 +1226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of OPA rules to statically analyze Dockerfiles to improve security ",
+                "homepage": "https://cloudberry.engineering/article/dockerfile-security-best-practices/",
                 "id": 301210520,
                 "language": "Open Policy Agent",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-22T15:16:13Z",
+                "open_issues": 4,
                 "owner": "gbrindisi",
                 "repo": "dockerfile-security",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -743,12 +1247,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A policy-enabled authorization plugin for Docker.",
+                "homepage": null,
                 "id": 60713839,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-25T09:33:07Z",
+                "open_issues": 19,
                 "owner": "open-policy-agent",
                 "repo": "opa-docker-authz",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "authorization",
+                  "docker",
+                  "opa"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -759,12 +1272,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerfile Security Checker using OPA Rego policies with Conftest",
+                "homepage": "https://blog.madhuakula.com/dockerfile-security-checks-using-opa-rego-policies-with-conftest-32ab2316172f",
                 "id": 264303011,
                 "language": "Open Policy Agent",
+                "license": "MIT",
                 "last_commit": "2022-06-27T10:28:09Z",
+                "open_issues": 0,
                 "owner": "madhuakula",
                 "repo": "docker-security-checker",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "conftest",
+                  "docker",
+                  "dockerfile",
+                  "infosec",
+                  "opa",
+                  "opa-rego-policies",
+                  "rego",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -782,12 +1309,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository has been archived, development moved to https://github.com/kubev2v/forklift",
+                "homepage": null,
                 "id": 315890320,
                 "language": "Open Policy Agent",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-06T18:11:32Z",
+                "open_issues": 0,
                 "owner": "kubev2v",
                 "repo": "forklift-validation",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "forklift"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -805,12 +1339,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.",
+                "homepage": null,
                 "id": 599724646,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:10:03Z",
+                "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "regorus",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "c",
+                  "confidential-computing",
+                  "cpp",
+                  "csharp",
+                  "golang",
+                  "interpreter",
+                  "java",
+                  "javascript",
+                  "no-std",
+                  "opa",
+                  "policy-as-code",
+                  "python",
+                  "rego",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -828,12 +1383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift package for evaluating OPA IR Plans compiled from Rego policies",
+                "homepage": null,
                 "id": 962757724,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:57:59Z",
+                "open_issues": 14,
                 "owner": "open-policy-agent",
                 "repo": "swift-opa",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -851,12 +1411,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source TypeScript packages for use with Open Policy Agent (OPA).",
+                "homepage": "https://open-policy-agent.github.io/opa-typescript/",
                 "id": 820396830,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-20T18:10:36Z",
+                "open_issues": 16,
                 "owner": "open-policy-agent",
                 "repo": "opa-typescript",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "javascript",
+                  "opa",
+                  "open-policy-agent",
+                  "rbac",
+                  "role-based-access-control",
+                  "sdk",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -878,12 +1453,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+            "homepage": "https://www.openpolicyagent.org",
             "id": 48714685,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:50:31Z",
+            "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174
+            "stars": 12174,
+            "topics": [
+              "authorization",
+              "cloud-native",
+              "compliance",
+              "declarative",
+              "json",
+              "opa",
+              "open-policy-agent",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -894,12 +1483,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.",
+            "homepage": null,
             "id": 599724646,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:10:03Z",
+            "open_issues": 62,
             "owner": "microsoft",
             "repo": "regorus",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "c",
+              "confidential-computing",
+              "cpp",
+              "csharp",
+              "golang",
+              "interpreter",
+              "java",
+              "javascript",
+              "no-std",
+              "opa",
+              "policy-as-code",
+              "python",
+              "rego",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -910,12 +1520,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent WebAssembly NPM module (opa-wasm)",
+            "homepage": null,
             "id": 186678915,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T12:36:42Z",
+            "open_issues": 16,
             "owner": "open-policy-agent",
             "repo": "npm-opa-wasm",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "authorization",
+              "browser",
+              "declarative",
+              "deno",
+              "nodejs",
+              "opa",
+              "open-policy-agent",
+              "policy",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -926,12 +1552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent WebAssembly Rust SDK",
+            "homepage": null,
             "id": 498392105,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:33:18Z",
+            "open_issues": 13,
             "owner": "matrix-org",
             "repo": "rust-opa-wasm",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -942,12 +1573,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Call Open Policy Agent (OPA) policies in WASM (Web Assembly) from .NET Core",
+            "homepage": null,
             "id": 222640924,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-26T16:00:27Z",
+            "open_issues": 9,
             "owner": "christophwille",
             "repo": "dotnet-opa-wasm",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "csharp",
+              "dotnet-core",
+              "opa",
+              "open-policy-agent",
+              "wasm",
+              "wasmtime",
+              "web-assembly",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -958,12 +1603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 353066403,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-10T05:00:07Z",
+            "open_issues": 4,
             "owner": "sangkeon",
             "repo": "java-opa-wasm",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -974,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent WebAssembly SDK for Python",
+            "homepage": null,
             "id": 392236303,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-25T10:49:47Z",
+            "open_issues": 0,
             "owner": "a2d24",
             "repo": "python-opa-wasm",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -990,12 +1645,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent dotnet core SDK",
+            "homepage": "https://me-viper.github.io/OpaDotNet/",
             "id": 656020214,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-04T09:44:19Z",
+            "open_issues": 7,
             "owner": "me-viper",
             "repo": "OpaDotNet",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "dotnet-core",
+              "opa",
+              "openpolicyagent",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1006,12 +1671,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backend for packaging OPA policy and data files into bundles",
+            "homepage": "https://me-viper.github.io/OpaDotNet/",
             "id": 679162647,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-05-28T20:29:46Z",
+            "open_issues": 1,
             "owner": "me-viper",
             "repo": "OpaDotNet.Compilation",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "dotnet-core",
+              "open-policy-agent"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1022,12 +1695,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OPA WASM SDK using wasmtime",
+            "homepage": null,
             "id": 1012821936,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-14T12:45:55Z",
+            "open_issues": 0,
             "owner": "nickdeis",
             "repo": "python-opa-wasmtime",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "opa",
+              "opa-policy-bundle",
+              "rego",
+              "wasm",
+              "wasmtime"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1040,12 +1724,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
+                "homepage": "https://snyk.io",
                 "id": 45247496,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:11:32Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5650
+                "stars": 5651,
+                "topics": [
+                  "monitor",
+                  "security",
+                  "snyk",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             },
@@ -1056,12 +1750,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.",
+                "homepage": null,
                 "id": 599724646,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:10:03Z",
+                "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "regorus",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "c",
+                  "confidential-computing",
+                  "cpp",
+                  "csharp",
+                  "golang",
+                  "interpreter",
+                  "java",
+                  "javascript",
+                  "no-std",
+                  "opa",
+                  "policy-as-code",
+                  "python",
+                  "rego",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -1083,12 +1798,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+            "homepage": "https://kubescape.io",
             "id": 395283401,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:56:49Z",
+            "open_issues": 65,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11700
+            "stars": 11702,
+            "topics": [
+              "best-practice",
+              "devops",
+              "kubernetes",
+              "mitre-attack",
+              "nsa",
+              "security",
+              "vulnerability-detection"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1099,12 +1827,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐊 Policy Controller for Kubernetes",
+            "homepage": "https://open-policy-agent.github.io/gatekeeper/",
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-28T21:03:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:53:04Z",
+            "open_issues": 187,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4269
+            "stars": 4269,
+            "topics": [
+              "admission",
+              "cncf",
+              "gatekeeper",
+              "hacktoberfest",
+              "kubernetes",
+              "mutation",
+              "opa",
+              "policy",
+              "policy-engine",
+              "security",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1115,12 +1860,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices",
+            "homepage": null,
             "id": 470366002,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T09:43:39Z",
+            "open_issues": 5,
             "owner": "google",
             "repo": "gke-policy-automation",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "gcp",
+              "gke",
+              "opa",
+              "policy",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1131,12 +1887,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A policy management tool for interacting with Gatekeeper",
+            "homepage": null,
             "id": 208185891,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-20T02:18:14Z",
+            "open_issues": 21,
             "owner": "plexsystems",
             "repo": "konstraint",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "conftest",
+              "gatekeeper",
+              "kubernetes",
+              "opa",
+              "open-policy-agent",
+              "policy",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1147,12 +1916,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple to use web-based OPA Gatekeeper policy manager",
+            "homepage": "https://sighup.io",
             "id": 260045679,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T16:55:37Z",
+            "open_issues": 5,
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "dashboard",
+              "fury",
+              "gatekeeper",
+              "k8s",
+              "kubernetes",
+              "kustomize",
+              "opa",
+              "policies",
+              "rego",
+              "ui",
+              "web",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1163,12 +1950,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sidecar for managing OPA instances in Kubernetes.",
+            "homepage": null,
             "id": 94342237,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T23:47:04Z",
+            "open_issues": 13,
             "owner": "open-policy-agent",
             "repo": "kube-mgmt",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "devops",
+              "k8s",
+              "kubernetes",
+              "opa",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1179,12 +1977,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rego policies collection",
+            "homepage": null,
             "id": 262924542,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:58:26Z",
+            "open_issues": 3,
             "owner": "redhat-cop",
             "repo": "rego-policies",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "conftest",
+              "container-cop",
+              "gatekeeper",
+              "opa",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1195,12 +2004,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MagTape Policy-as-Code for Kubernetes",
+            "homepage": null,
             "id": 235880772,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-24T21:10:25Z",
+            "open_issues": 27,
             "owner": "tmobile",
             "repo": "magtape",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "admission-controller",
+              "kubernetes",
+              "magtape",
+              "opa",
+              "policy",
+              "policy-as-code",
+              "python",
+              "tmobile",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1211,12 +2035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:37:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:36:19Z",
+            "open_issues": 12,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1227,12 +2056,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🔮 ✈️ to integrate OPA Gatekeeper's new ExternalData feature with cosign to determine whether the images are valid by verifying their signatures",
+            "homepage": null,
             "id": 430023305,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-04T16:46:54Z",
+            "open_issues": 22,
             "owner": "sigstore",
             "repo": "cosign-gatekeeper-provider",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "cosign",
+              "fulcio",
+              "gatekeeper",
+              "keyless",
+              "opa",
+              "rekor",
+              "sigstore"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1243,12 +2085,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Watch your in cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics",
+            "homepage": null,
             "id": 307321901,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-04T10:12:27Z",
+            "open_issues": 5,
             "owner": "cmacrae",
             "repo": "kove",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "go",
+              "golang",
+              "kubernetes",
+              "metrics",
+              "monitoring",
+              "observability",
+              "opa",
+              "open-policy-agent",
+              "prometheus",
+              "prometheus-exporter",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1259,12 +2118,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contains a valid OPA unit testing environment",
+            "homepage": null,
             "id": 207083512,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-09-08T11:14:15Z",
+            "open_issues": 0,
             "owner": "k8spin",
             "repo": "opa-k8s-development",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "development",
+              "kubernetes",
+              "mutation",
+              "opa",
+              "openpolicyagent",
+              "rego",
+              "testing",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1275,12 +2148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "conftest plugin that transforms k8s input object to be compatible with gatekeeper policies",
+            "homepage": null,
             "id": 373607447,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-26T14:12:18Z",
+            "open_issues": 2,
             "owner": "clover",
             "repo": "gatekeeper-conftest",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1291,12 +2169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small example project containing a validating and mutating policy.",
+            "homepage": null,
             "id": 233067876,
             "language": "Open Policy Agent",
+            "license": null,
             "last_commit": "2020-01-10T17:21:56Z",
+            "open_issues": 0,
             "owner": "tsandall",
             "repo": "validating-and-mutating-example",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1309,12 +2192,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin to enforce OPA policies with Envoy",
+                "homepage": null,
                 "id": 124440925,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:44:56Z",
+                "open_issues": 15,
                 "owner": "open-policy-agent",
                 "repo": "opa-envoy-plugin",
-                "stars": 362
+                "stars": 362,
+                "topics": [
+                  "authorization",
+                  "cloud-native",
+                  "compliance",
+                  "envoy",
+                  "istio-proxy",
+                  "opa",
+                  "opa-envoy",
+                  "policy"
+                ]
               },
               "first_seen": "2026-08-28T21:42:31.291Z"
             }
@@ -1336,12 +2233,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Admission Controller as a proxy for Nomad. Define OPA rules for validation and mutation or plugin remotes",
+            "homepage": null,
             "id": 600415546,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-20T08:45:11Z",
+            "open_issues": 5,
             "owner": "mxab",
             "repo": "nacp",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "admission-controller",
+              "devsecops",
+              "nomad",
+              "notary",
+              "notation",
+              "opa"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -1358,12 +2267,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
+            "homepage": null,
             "id": 1194389960,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-29T14:43:58Z",
+            "open_issues": 0,
             "owner": "antonbabenko",
             "repo": "awesome-terraform-compliance",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "compliance",
+              "iac-security",
+              "opentofu",
+              "policy-as-code",
+              "security",
+              "terraform",
+              "terraform-compliance"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -1380,12 +2304,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrations, examples, and proof-of-concepts that are not part of OPA proper.",
+            "homepage": "http://www.openpolicyagent.org/",
             "id": 89408036,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-16T13:11:14Z",
+            "open_issues": 22,
             "owner": "open-policy-agent",
             "repo": "contrib",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "contrib",
+              "hack",
+              "integrations",
+              "opa",
+              "open-policy-agent",
+              "proof-of-concept"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1396,12 +2332,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspektor is a protocol-aware proxy that is used to enforce access policies👮",
+            "homepage": "https://inspektor.cloud",
             "id": 422917393,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-15T05:32:30Z",
+            "open_issues": 18,
             "owner": "inspektor-dev",
             "repo": "inspektor",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "access-control",
+              "acl",
+              "authorization",
+              "go",
+              "iam",
+              "openpolicyagent",
+              "permissions",
+              "rbac",
+              "rust",
+              "security",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1412,12 +2365,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent (OPA) plug-in for Kafka authorization",
+            "homepage": null,
             "id": 220199630,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-15T18:51:10Z",
+            "open_issues": 8,
             "owner": "StyraOSS",
             "repo": "opa-kafka-plugin",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "authorization",
+              "kafka",
+              "kafka-authorization",
+              "opa",
+              "opa-kafka-plugin",
+              "open-policy-agent",
+              "openpolicyagent",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1428,12 +2395,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Boot library for enforcing authorization on Spring Data JPA and MongoDB by filtering data using the Open Policy Agent (OPA) partial evaluation feature.",
+            "homepage": null,
             "id": 241153419,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-20T08:49:17Z",
+            "open_issues": 4,
             "owner": "jferrater",
             "repo": "opa-data-filter-spring-boot-starter",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "authorization",
+              "cloud-native",
+              "datafilter",
+              "java",
+              "java-library",
+              "mongodb",
+              "opa",
+              "opa-data-filter",
+              "openpolicyagent",
+              "spring-data-jpa",
+              "spring-data-mongo",
+              "springboot",
+              "sqldb"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1444,12 +2430,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent extension for Authzed SpiceDB",
+            "homepage": null,
             "id": 856083345,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-11T01:19:03Z",
+            "open_issues": 0,
             "owner": "umbrellaassociates",
             "repo": "opa-spicedb",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "open-policy-agent",
+              "spicedb"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1460,12 +2454,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 414633085,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-31T08:32:15Z",
+            "open_issues": 3,
             "owner": "stackabletech",
             "repo": "trino-opa-authorizer",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1476,12 +2475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example integration of OPA using Google Calendar as a datasource",
+            "homepage": null,
             "id": 407086393,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-09T13:30:37Z",
+            "open_issues": 0,
             "owner": "anderseknert",
             "repo": "opa-google-calendar",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1492,12 +2496,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A single message transformer that filters based on OPA policies",
+            "homepage": "https://www.opencredo.com/blogs/controlling-kafka-data-flows-using-open-policy-agent",
             "id": 506301027,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-06-11T12:02:37Z",
+            "open_issues": 0,
             "owner": "opencredo",
             "repo": "opa-single-message-transformer",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "blog-article"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -1514,12 +2525,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+            "homepage": "https://www.openpolicyagent.org",
             "id": 48714685,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:50:31Z",
+            "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174
+            "stars": 12174,
+            "topics": [
+              "authorization",
+              "cloud-native",
+              "compliance",
+              "declarative",
+              "json",
+              "opa",
+              "open-policy-agent",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1530,12 +2555,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+            "homepage": "https://www.openpolicyagent.org",
             "id": 48714685,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:50:31Z",
+            "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174
+            "stars": 12174,
+            "topics": [
+              "authorization",
+              "cloud-native",
+              "compliance",
+              "declarative",
+              "json",
+              "opa",
+              "open-policy-agent",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1546,12 +2585,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+            "homepage": "https://www.openpolicyagent.org",
             "id": 48714685,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:50:31Z",
+            "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174
+            "stars": 12174,
+            "topics": [
+              "authorization",
+              "cloud-native",
+              "compliance",
+              "declarative",
+              "json",
+              "opa",
+              "open-policy-agent",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1562,12 +2615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improved Nano Syntax Highlighting Files",
+            "homepage": null,
             "id": 803940,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-27T08:21:11Z",
+            "open_issues": 119,
             "owner": "scopatz",
             "repo": "nanorc",
-            "stars": 3262
+            "stars": 3262,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1578,12 +2636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent plugin for IntelliJ ",
+            "homepage": null,
             "id": 246697491,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:17:32Z",
+            "open_issues": 37,
             "owner": "open-policy-agent",
             "repo": "opa-idea-plugin",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1594,12 +2657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim plugin for Rego: www.openpolicyagent.org",
+            "homepage": null,
             "id": 54931689,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2024-01-11T02:59:06Z",
+            "open_issues": 1,
             "owner": "tsandall",
             "repo": "vim-rego",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1610,12 +2678,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs major mode for OPA's rego language",
+            "homepage": null,
             "id": 250740501,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-22T14:58:18Z",
+            "open_issues": 2,
             "owner": "psibi",
             "repo": "rego-mode",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "major-mode",
+              "opa",
+              "open-policy-agent",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1626,12 +2704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://decodeapps.pp.ua/blog/post/rego-treesitter",
             "id": 474870332,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T05:20:43Z",
+            "open_issues": 6,
             "owner": "FallenAngel97",
             "repo": "tree-sitter-rego",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1642,12 +2725,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-featured CodeMirror 6 language support for Rego (Open Policy Agent). Includes syntax highlighting with comprehensive grammar, keyword and built-in function autocomplete, context-aware path completions, hover documentation, and proper code folding for rules, comprehensions, and data structures.",
+            "homepage": null,
             "id": 1113518182,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-10T06:11:27Z",
+            "open_issues": 1,
             "owner": "HZMonama",
             "repo": "codemirror-lang-rego",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "codemirror",
+              "codemirror6",
+              "language-support",
+              "policy",
+              "policy-as-code",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -1664,12 +2759,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+            "homepage": "https://trivy.dev",
             "id": 180687624,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:50:22Z",
+            "open_issues": 258,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37678
+            "stars": 37679,
+            "topics": [
+              "containers",
+              "devsecops",
+              "docker",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "kubernetes",
+              "misconfiguration",
+              "security",
+              "security-tools",
+              "vulnerability",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1680,12 +2796,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!",
+            "homepage": "https://infracost.io",
             "id": 274625369,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T14:26:09Z",
+            "open_issues": 18,
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12495
+            "stars": 12495,
+            "topics": [
+              "aws",
+              "azure",
+              "cdk",
+              "cloud",
+              "cloud-cost-estimates",
+              "cloud-formation",
+              "cost-estimation",
+              "cost-management",
+              "cost-optimization",
+              "devops",
+              "finops",
+              "gcp",
+              "google",
+              "infrastructure-as-code",
+              "monthly-costs",
+              "terraform",
+              "terraform-cost-estimation"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1696,12 +2835,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+            "homepage": "https://runterrascan.io",
             "id": 103084166,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-20T19:37:10Z",
+            "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5211
+            "stars": 5211,
+            "topics": [
+              "architecture",
+              "aws",
+              "aws-security",
+              "azure-security",
+              "cloud-security",
+              "cloudsecurity",
+              "devops",
+              "devsecops",
+              "gcp-security",
+              "iac",
+              "infrastructure",
+              "infrastructure-as-code",
+              "kubernetes",
+              "sast",
+              "scans",
+              "security",
+              "security-tools",
+              "security-violations",
+              "terraform",
+              "terrascan"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1712,12 +2877,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+            "homepage": "https://kics.io",
             "id": 278200746,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:02:29Z",
+            "open_issues": 315,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2696
+            "stars": 2696,
+            "topics": [
+              "appsec",
+              "cloudnative",
+              "devsecops",
+              "golang",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "open-policy-agent",
+              "security",
+              "security-tools",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1728,12 +2911,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Regula checks infrastructure as code templates (Terraform, CloudFormation, k8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego",
+            "homepage": "https://regula.dev/",
             "id": 228634068,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-03T09:00:01Z",
+            "open_issues": 60,
             "owner": "fugue",
             "repo": "regula",
-            "stars": 966
+            "stars": 966,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1744,12 +2932,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library of constraint templates and sample constraints for Constraint Framework tools",
+            "homepage": null,
             "id": 178277843,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-18T01:03:43Z",
+            "open_issues": 55,
             "owner": "GoogleCloudPlatform",
             "repo": "policy-library",
-            "stars": 235
+            "stars": 235,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1760,12 +2953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 233594851,
             "language": "Open Policy Agent",
+            "license": "MIT",
             "last_commit": "2026-08-19T10:52:01Z",
+            "open_issues": 6,
             "owner": "Scalr",
             "repo": "sample-tf-opa-policies",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1776,12 +2974,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental: TFLint ruleset plugin for writing custom rules in Rego.",
+            "homepage": null,
             "id": 584325328,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T15:15:19Z",
+            "open_issues": 4,
             "owner": "terraform-linters",
             "repo": "tflint-ruleset-opa",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "terraform",
+              "tflint",
+              "tflint-ruleset"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1792,12 +2999,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS Cloudformation Hook for OPA-powered infrastructure policy enforcement",
+            "homepage": null,
             "id": 467527969,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-15T13:10:31Z",
+            "open_issues": 9,
             "owner": "StyraOSS",
             "repo": "opa-aws-cloudformation-hook",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "authorization",
+              "aws",
+              "aws-cloudformation",
+              "aws-cloudformation-hooks",
+              "cloudformation",
+              "opa",
+              "open-policy-agent",
+              "policy-as-code",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1808,12 +3030,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OPA library to develop IT Control policies, for the IBM Cloud",
+            "homepage": null,
             "id": 312616730,
             "language": "Open Policy Agent",
+            "license": null,
             "last_commit": "2022-09-26T07:24:02Z",
+            "open_issues": 0,
             "owner": "IBM-Cloud",
             "repo": "terraform-opa-ibm",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ibm-cloud",
+              "open-policy-agent",
+              "rego",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1824,12 +3056,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bridge enabling Pulumi CrossGuard to run OPA rules",
+            "homepage": null,
             "id": 224539814,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-25T20:45:50Z",
+            "open_issues": 3,
             "owner": "pulumi",
             "repo": "pulumi-policy-opa",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -1846,12 +3083,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Kubernetes AdmissionReview requests from Kubernetes resource manifests",
+            "homepage": null,
             "id": 436233464,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-02T02:17:21Z",
+            "open_issues": 5,
             "owner": "anderseknert",
             "repo": "kube-review",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "admission-controller",
+              "admission-review",
+              "admission-webhook",
+              "k8s",
+              "kube-review",
+              "kubectl",
+              "kubernetes",
+              "mutating-admission-webhook",
+              "opa",
+              "open-policy-agent",
+              "policy-as-code",
+              "validating-admission-webhook"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1862,12 +3117,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny Rego library with helper functions for unit testing",
+            "homepage": null,
             "id": 473971368,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-19T00:12:22Z",
+            "open_issues": 1,
             "owner": "anderseknert",
             "repo": "rego-test-assertions",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "assertions",
+              "assertions-library",
+              "opa",
+              "open-policy-agent",
+              "policy",
+              "policy-as-code",
+              "rego",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1878,12 +3147,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action to automate testing for your OPA (Open Policy Agent) Rego policies, generates a report with coverage information, and posts the test results as a comment on your pull requests.",
+            "homepage": "https://masterpoint.io",
             "id": 838584850,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-01T08:52:52Z",
+            "open_issues": 2,
             "owner": "masterpointio",
             "repo": "github-action-opa-rego-test",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "github-action",
+              "github-actions",
+              "opa",
+              "opa-testing",
+              "open-policy-agent",
+              "rego",
+              "rego-test",
+              "rego-testing"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1894,12 +3177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Colors `opa test --coverage` reports in the terminal.",
+            "homepage": null,
             "id": 529816302,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-04-06T12:47:50Z",
+            "open_issues": 1,
             "owner": "C5T",
             "repo": "ocov",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1910,12 +3198,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Merge and convert the rego coverage format to codecov json",
+            "homepage": "https://github.com/SVilgelm/SVilgelm/discussions/5",
             "id": 630087681,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-11-24T16:45:25Z",
+            "open_issues": 1,
             "owner": "SVilgelm",
             "repo": "opa-codecov",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "codecov",
+              "open-policy-agent",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -1932,12 +3229,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud-native authorization for modern applications and APIs",
+            "homepage": "https://www.topaz.sh",
             "id": 556329104,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:13:28Z",
+            "open_issues": 10,
             "owner": "aserto-dev",
             "repo": "topaz",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "abac",
+              "access-control",
+              "api",
+              "authorization",
+              "cloud-native",
+              "golang",
+              "opa",
+              "rbac",
+              "rebac",
+              "security",
+              "zanzibar"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1948,12 +3262,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Regal is a linter and language server for Rego, bringing your policy development experience to the next level!",
+            "homepage": null,
             "id": 592365615,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T14:18:24Z",
+            "open_issues": 141,
             "owner": "open-policy-agent",
             "repo": "regal",
-            "stars": 401
+            "stars": 401,
+            "topics": [
+              "code-quality",
+              "language-server",
+              "linter",
+              "lsp",
+              "magnificent",
+              "opa",
+              "open-policy-agent",
+              "policy-as-code",
+              "rego",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1964,12 +3294,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for building OPA policies into OCI images",
+            "homepage": "https://www.openpolicycontainers.com",
             "id": 411456245,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T03:40:48Z",
+            "open_issues": 9,
             "owner": "opcr-io",
             "repo": "policy",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "oci",
+              "oci-image",
+              "openpolicyagent"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1980,12 +3319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fugue Rego Toolkit",
+            "homepage": null,
             "id": 169977572,
             "language": "Haskell",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-30T13:38:28Z",
+            "open_issues": 10,
             "owner": "fugue",
             "repo": "fregot",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -1996,12 +3340,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight container for distributed security policy evaluation",
+            "homepage": "https://rond-authz.io",
             "id": 499463016,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T06:03:32Z",
+            "open_issues": 35,
             "owner": "rond-authz",
             "repo": "rond",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "authorization",
+              "hacktoberfest",
+              "openpolicyagent",
+              "rbac",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2012,12 +3367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of https://github.com/permitio/opal",
+            "homepage": "https://opal.ac",
             "id": 436990920,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-12T12:37:38Z",
+            "open_issues": 1,
             "owner": "authorizon",
             "repo": "opal",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2028,12 +3388,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-commit git hooks for Open Policy Agent (OPA) and Rego development",
+            "homepage": null,
             "id": 237276304,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-07-06T07:04:59Z",
+            "open_issues": 0,
             "owner": "anderseknert",
             "repo": "pre-commit-opa",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "conftest",
+              "git-hooks",
+              "opa",
+              "openpolicyagent",
+              "pre-commit",
+              "pre-commit-hooks",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2044,12 +3417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sets up Open Policy Agent CLI in your GitHub Actions workflow.",
+            "homepage": null,
             "id": 437084538,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T03:52:25Z",
+            "open_issues": 5,
             "owner": "open-policy-agent",
             "repo": "setup-opa",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2060,12 +3438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reasonably Usable Self-hosted Version of OPA's Playground",
+            "homepage": null,
             "id": 501680279,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-05-19T04:44:24Z",
+            "open_issues": 0,
             "owner": "dolevf",
             "repo": "Open-Policy-Agent-Alfred",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2076,12 +3459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple tool for converting Rego (OPA) rule into command.",
+            "homepage": null,
             "id": 491801795,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-01T02:43:57Z",
+            "open_issues": 0,
             "owner": "onelittlenightmusic",
             "repo": "opactl",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2092,12 +3480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Rego from OpenAPI 3.0 specifications",
+            "homepage": null,
             "id": 204139910,
             "language": "Go",
+            "license": null,
             "last_commit": "2019-11-04T20:37:52Z",
+            "open_issues": 0,
             "owner": "ashutosh-narkar",
             "repo": "openapi-to-rego",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2108,12 +3501,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code skill for generating, reviewing, and testing OPA Rego policies following security best practices. Companion tooling for spring-boot-starter-opa-abac.",
+            "homepage": "https://central.sonatype.com/artifact/dev.dmitriikonovalov/opa-abac-spring-boot-starter",
             "id": 1132518785,
             "language": "Open Policy Agent",
+            "license": "MIT",
             "last_commit": "2026-05-31T12:48:58Z",
+            "open_issues": 0,
             "owner": "Void3110",
             "repo": "rego-skill",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "authorization",
+              "claude",
+              "claude-code",
+              "opa",
+              "open-policy-agent",
+              "policy-as-code",
+              "rego",
+              "security-audit"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2124,12 +3533,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥️ 👓 Monitor your OPA Gatekeeper via Grafana Dashboard",
+            "homepage": "https://sysdig.com/blog/monitor-gatekeeper-prometheus/",
             "id": 322069565,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-12-17T09:39:22Z",
+            "open_issues": 0,
             "owner": "developer-guy",
             "repo": "monitor-opa-gatekeeper",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "dashboard",
+              "gatekeeper",
+              "grafana",
+              "metrics",
+              "opa"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2140,12 +3560,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 400198621,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-04T13:36:28Z",
+            "open_issues": 0,
             "owner": "snyk",
             "repo": "snyk-iac-rules",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "infrastructure-as-code"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2156,12 +3583,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal reasoning with OPA",
+            "homepage": null,
             "id": 260177553,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-11T09:53:52Z",
+            "open_issues": 0,
             "owner": "mhausenblas",
             "repo": "temporal-opa",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "examples",
+              "open-policy-agent",
+              "rego",
+              "temporal",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2172,12 +3610,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Graphical user interface showcasing the different stages of Rego compilation in OPA. NOW PART OF REGAL :point_down:",
+            "homepage": "https://github.com/open-policy-agent/regal",
             "id": 568814877,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-10T07:11:45Z",
+            "open_issues": 3,
             "owner": "srenatus",
             "repo": "opa-explorer",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "compiler",
+              "opa",
+              "open-policy-agent",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2188,12 +3636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example files for supporting schema type checking for OPA",
+            "homepage": null,
             "id": 327961080,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-01T13:04:55Z",
+            "open_issues": 0,
             "owner": "aavarghese",
             "repo": "opa-schema-examples",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2204,12 +3657,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minimum compatible OPA version checker",
+            "homepage": null,
             "id": 728408816,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-30T01:33:24Z",
+            "open_issues": 8,
             "owner": "StyraOSS",
             "repo": "mcov",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "opa",
+              "open-policy-agent",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2220,12 +3682,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RegoLab is an interactive web-based playground for developing, testing, and evaluating Open Policy Agent (OPA) Rego policies. It provides a unified environment where developers can write policies, define input/data contexts, and see real-time evaluation results with integrated linting and testing capabilities—all without leaving the browser.",
+            "homepage": "https://www.maynframe.xyz/regolab",
             "id": 1111770348,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-06T08:27:18Z",
+            "open_issues": 0,
             "owner": "HZMonama",
             "repo": "regolab",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "opa",
+              "playground",
+              "policy-as-code",
+              "policy-library",
+              "regal",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -2242,12 +3716,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
+            "homepage": "https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project",
             "id": 516451110,
             "language": "PowerShell",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T19:10:37Z",
+            "open_issues": 232,
             "owner": "cisagov",
             "repo": "ScubaGear",
-            "stars": 2651
+            "stars": 2651,
+            "topics": [
+              "assessment-tool",
+              "cisa",
+              "contributions-welcome",
+              "cybersecurity",
+              "m365",
+              "open-policy-agent",
+              "open-source",
+              "powershell",
+              "rego",
+              "scuba",
+              "scubaconnect",
+              "security",
+              "security-automation"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2258,12 +3751,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source compliance tool for development platforms.",
+            "homepage": "https://docs.reposaur.com",
             "id": 478093841,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-30T12:44:34Z",
+            "open_issues": 13,
             "owner": "reposaur",
             "repo": "reposaur",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "audit",
+              "compliance",
+              "git",
+              "github",
+              "github-actions",
+              "gitlab",
+              "go",
+              "golang",
+              "golang-tools",
+              "opa",
+              "rego",
+              "report",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2274,12 +3786,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A non-interactive daemon for host management",
+            "homepage": null,
             "id": 411709740,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:04:37Z",
+            "open_issues": 38,
             "owner": "Snowflake-Labs",
             "repo": "sansshell",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "administration",
+              "automation",
+              "go",
+              "reliability",
+              "security",
+              "unshelled"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2290,12 +3814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go AST based static analysis tool with Rego",
+            "homepage": null,
             "id": 529487770,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T23:20:48Z",
+            "open_issues": 0,
             "owner": "m-mizutani",
             "repo": "goast",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2306,12 +3835,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent (OPA) Plugins for Backstage",
+            "homepage": "https://parsifal-m.github.io/backstage-opa-plugins/",
             "id": 606474191,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T12:53:37Z",
+            "open_issues": 1,
             "owner": "Parsifal-M",
             "repo": "backstage-opa-plugins",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "authorization",
+              "authz",
+              "backstage",
+              "backstage-plugin",
+              "opa",
+              "open-source",
+              "openpolicyagent",
+              "permissions",
+              "plugin",
+              "plugins",
+              "policy-as-code",
+              "rbac",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -2328,12 +3876,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ever wanted to validate Christmas trees - well now you can!",
+            "homepage": null,
             "id": 219365488,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-12-15T15:02:25Z",
+            "open_issues": 28,
             "owner": "charlieegan3",
             "repo": "policing-christmas-trees",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         },
@@ -2344,12 +3897,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Colorized output for the Rego print function!",
+            "homepage": null,
             "id": 474952260,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-28T12:28:55Z",
+            "open_issues": 0,
             "owner": "anderseknert",
             "repo": "colorized",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "colorize",
+              "colors",
+              "opa",
+              "open-policy-agent",
+              "print",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -2366,12 +3931,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Community repository is the place to go for support with OPA and OPA Sub-Projects, like Conftest and Gatekeeper. ",
+            "homepage": "https://www.openpolicyagent.org/",
             "id": 398046316,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-26T10:01:52Z",
+            "open_issues": 1,
             "owner": "open-policy-agent",
             "repo": "community",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "conftest",
+              "gatekeeper",
+              "opa",
+              "open-policy-agent",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -2388,12 +3964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 446103870,
             "language": "WebAssembly",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-22T01:32:34Z",
+            "open_issues": 0,
             "owner": "sangkeon",
             "repo": "opaguide_src",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
         }
@@ -2402,15 +3983,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:42:31.291Z",
+    "last_updated": "2026-08-29T04:37:54.470Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of OPA related tools, frameworks and articles",
+      "homepage": null,
       "id": 292940644,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-17T11:54:34Z",
+      "open_issues": 5,
       "owner": "open-policy-agent",
       "repo": "awesome-opa",
-      "stars": 901
+      "stars": 901,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "opa",
+        "opa-library",
+        "open-policy-agent",
+        "openpolicyagent",
+        "policy-as-code",
+        "security"
+      ]
     },
     "original_repository_sha": "4ef13c8945827a3dc3c7a2d90a47f604f947ae03",
     "enhanced_repository": "enhansome/enhansome-opa",
