@@ -21,7 +21,7 @@
                 "open_issues": 336,
                 "owner": "open-policy-agent",
                 "repo": "opa",
-                "stars": 12174,
+                "stars": 12177,
                 "topics": [
                   "authorization",
                   "cloud-native",
@@ -84,7 +84,7 @@
                 "open_issues": 51,
                 "owner": "open-policy-agent",
                 "repo": "conftest",
-                "stars": 3252,
+                "stars": 3253,
                 "topics": [
                   "kubernetes",
                   "open-policy-agent",
@@ -362,8 +362,8 @@
             "id": 952106577,
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:07:49Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-29T11:53:24Z",
+            "open_issues": 11,
             "owner": "Principled-Evolution",
             "repo": "gopal",
             "stars": 7,
@@ -587,7 +587,7 @@
                 "open_issues": 10,
                 "owner": "open-policy-agent",
                 "repo": "opa-java",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "opa",
                   "open-policy-agent",
@@ -1462,7 +1462,7 @@
             "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174,
+            "stars": 12177,
             "topics": [
               "authorization",
               "cloud-native",
@@ -1804,10 +1804,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:56:49Z",
-            "open_issues": 65,
+            "open_issues": 68,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11702,
+            "stars": 11704,
             "topics": [
               "best-practice",
               "devops",
@@ -2040,11 +2040,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:36:19Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-29T14:53:48Z",
+            "open_issues": 8,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T21:42:31.291Z"
@@ -2534,7 +2534,7 @@
             "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174,
+            "stars": 12177,
             "topics": [
               "authorization",
               "cloud-native",
@@ -2564,7 +2564,7 @@
             "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174,
+            "stars": 12177,
             "topics": [
               "authorization",
               "cloud-native",
@@ -2594,7 +2594,7 @@
             "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174,
+            "stars": 12177,
             "topics": [
               "authorization",
               "cloud-native",
@@ -2768,7 +2768,7 @@
             "open_issues": 258,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37679,
+            "stars": 37688,
             "topics": [
               "containers",
               "devsecops",
@@ -2805,7 +2805,7 @@
             "open_issues": 18,
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12495,
+            "stars": 12496,
             "topics": [
               "aws",
               "azure",
@@ -3983,7 +3983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:54.470Z",
+    "last_updated": "2026-08-29T16:10:49.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OPA related tools, frameworks and articles",
