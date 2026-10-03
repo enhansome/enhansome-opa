@@ -21,7 +21,7 @@
                 "open_issues": 305,
                 "owner": "open-policy-agent",
                 "repo": "opa",
-                "stars": 12305,
+                "stars": 12308,
                 "topics": [
                   "authorization",
                   "cloud-native",
@@ -84,7 +84,7 @@
                 "open_issues": 37,
                 "owner": "open-policy-agent",
                 "repo": "conftest",
-                "stars": 3275,
+                "stars": 3276,
                 "topics": [
                   "kubernetes",
                   "open-policy-agent",
@@ -679,7 +679,7 @@
                 "id": 1195350084,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:03:44Z",
+                "last_commit": "2026-10-03T12:23:35Z",
                 "open_issues": 0,
                 "owner": "Void3110",
                 "repo": "spring-boot-starter-opa-abac",
@@ -956,7 +956,7 @@
                 "id": 361560245,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:08:31Z",
+                "last_commit": "2026-10-03T13:44:25Z",
                 "open_issues": 21,
                 "owner": "gofiber",
                 "repo": "contrib",
@@ -1504,7 +1504,7 @@
             "open_issues": 305,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12305,
+            "stars": 12308,
             "topics": [
               "authorization",
               "cloud-native",
@@ -1846,7 +1846,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T16:26:35Z",
-            "open_issues": 49,
+            "open_issues": 54,
             "owner": "kubescape",
             "repo": "kubescape",
             "stars": 11763,
@@ -2082,8 +2082,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:44:11Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T15:39:59Z",
+            "open_issues": 5,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -2383,7 +2383,7 @@
             "open_issues": 18,
             "owner": "inspektor-dev",
             "repo": "inspektor",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "access-control",
               "acl",
@@ -2576,7 +2576,7 @@
             "open_issues": 305,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12305,
+            "stars": 12308,
             "topics": [
               "authorization",
               "cloud-native",
@@ -2606,7 +2606,7 @@
             "open_issues": 305,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12305,
+            "stars": 12308,
             "topics": [
               "authorization",
               "cloud-native",
@@ -2636,7 +2636,7 @@
             "open_issues": 305,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12305,
+            "stars": 12308,
             "topics": [
               "authorization",
               "cloud-native",
@@ -2810,7 +2810,7 @@
             "open_issues": 254,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38203,
+            "stars": 38207,
             "topics": [
               "containers",
               "devsecops",
@@ -2886,7 +2886,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5214,
+            "stars": 5215,
             "topics": [
               "architecture",
               "aws",
@@ -3279,10 +3279,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T22:57:21Z",
-            "open_issues": 138,
+            "open_issues": 140,
             "owner": "open-policy-agent",
             "repo": "regal",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "code-quality",
               "language-server",
@@ -3736,7 +3736,7 @@
             "open_issues": 227,
             "owner": "cisagov",
             "repo": "ScubaGear",
-            "stars": 2690,
+            "stars": 2691,
             "topics": [
               "assessment-tool",
               "cisa",
@@ -3994,7 +3994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:28.447Z",
+    "last_updated": "2026-10-03T15:41:23.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OPA related tools, frameworks and articles",
@@ -4003,7 +4003,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-18T05:30:50Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "open-policy-agent",
       "repo": "awesome-opa",
       "stars": 901,

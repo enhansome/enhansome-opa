@@ -2,7 +2,7 @@
 
 <img src="assets/awesome-opa.png" width="150"><br/><br/>
 
-A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798 | 🐛 106 | 📅 2026-09-02 Open Policy Agent (OPA) related tools, frameworks and articles.
+A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,976 | 🐛 106 | 📅 2026-09-02 Open Policy Agent (OPA) related tools, frameworks and articles.
 
 ## Contents
 
@@ -55,9 +55,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 
 ### Repositories
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,305 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Open Policy Agent Github repository
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,308 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Open Policy Agent Github repository
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,290 | 🐛 198 | 🌐 Go | 📅 2026-09-30 - Kubernetes admission controller using OPA
-* [Conftest](https://github.com/open-policy-agent/conftest) ⭐ 3,275 | 🐛 37 | 🌐 Go | 📅 2026-10-01 - Write tests against structured configuration data
+* [Conftest](https://github.com/open-policy-agent/conftest) ⭐ 3,276 | 🐛 37 | 🌐 Go | 📅 2026-10-01 - Write tests against structured configuration data
 
 ### Docs
 
@@ -97,7 +97,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 * [Spring Security Reactive](https://github.com/massenz/jwt-opa) ⭐ 35 | 🐛 14 | 🌐 Java | 📅 2023-11-01 - OPA with Spring Security Reactive
 * [Java SDK](https://github.com/open-policy-agent/opa-java) ⭐ 26 | 🐛 10 | 🌐 Java | 📅 2026-06-16 - Java SDK for interacting with OPA ([documentation](https://open-policy-agent.github.io/opa-java/))
 * [Gradle](https://github.com/Bisnode/opa-gradle-plugin) ⭐ 13 | 🐛 11 | 🌐 Java | 📅 2025-03-01 - OPA plugin for Gradle
-* [Spring Boot Starter for OPA ABAC](https://github.com/Void3110/spring-boot-starter-opa-abac) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2026-10-01 - Spring-native ABAC authorization backed by OPA: `@OpaPreAuthorize` method security, hierarchical resource authorization, and partial-evaluation → JPA `Specification` data filtering
+* [Spring Boot Starter for OPA ABAC](https://github.com/Void3110/spring-boot-starter-opa-abac) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2026-10-03 - Spring-native ABAC authorization backed by OPA: `@OpaPreAuthorize` method security, hierarchical resource authorization, and partial-evaluation → JPA `Specification` data filtering
 
 ### Python
 
@@ -167,7 +167,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 
 ## WebAssembly (Wasm)
 
-* [Go SDK](https://github.com/open-policy-agent/opa/tree/main/internal/wasm/sdk) ⭐ 12,305 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - a small Go library for using WebAssembly compiled Open Policy Agent Rego policies
+* [Go SDK](https://github.com/open-policy-agent/opa/tree/main/internal/wasm/sdk) ⭐ 12,308 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - a small Go library for using WebAssembly compiled Open Policy Agent Rego policies
 * [regorus](https://github.com/microsoft/regorus/tree/main/bindings/wasm) ⭐ 349 | 🐛 68 | 🌐 Rust | 📅 2026-10-01 - Evaluate Rego policies in WASM using Regorus. Try it out at [Regorus Playground](https://anakrish.github.io/regorus-playground/).
 * [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) ⭐ 159 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-10 - a small SDK for using WebAssembly compiled Open Policy Agent Rego policies
 * [Rust](https://github.com/matrix-org/rust-opa-wasm) ⭐ 80 | 🐛 13 | 🌐 Rust | 📅 2026-09-24 - A crate to use OPA policies compiled to Wasm.
@@ -197,7 +197,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 
 ## Kubernetes
 
-* [Kubescape](https://github.com/armosec/kubescape) ⭐ 11,763 | 🐛 49 | 🌐 Go | 📅 2026-10-02 - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary) ⭐ 133 | 🐛 16 | 🌐 Open Policy Agent | 📅 2026-09-29
+* [Kubescape](https://github.com/armosec/kubescape) ⭐ 11,763 | 🐛 54 | 🌐 Go | 📅 2026-10-02 - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary) ⭐ 133 | 🐛 16 | 🌐 Open Policy Agent | 📅 2026-09-29
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,290 | 🐛 198 | 🌐 Go | 📅 2026-09-30 - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes
 * [GKE Policy Automation](https://github.com/google/gke-policy-automation) ⭐ 526 | 🐛 5 | 🌐 Go | 📅 2026-09-04 - Tool and policy library for reviewing GKE clusters against best practices
 * [Konstraint](https://github.com/plexsystems/konstraint) ⭐ 395 | 🐛 22 | 🌐 Go | 📅 2025-11-20 - CLI tool for working with templates and constraints when using Gatekeeper
@@ -205,7 +205,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 * [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) ⭐ 261 | 🐛 13 | 🌐 Go | 📅 2026-09-30 - Sidecar providing data from Kubernetes to OPA. Includes Helm charts for both projects
 * [Red Hat Rego Policies](https://github.com/redhat-cop/rego-policies) ⭐ 171 | 🐛 10 | 🌐 Shell | 📅 2026-09-29 - Red Hat Rego policies collection
 * [MagTape](https://github.com/tmobile/magtape) ⭐ 152 | 🐛 27 | 🌐 Python | 📅 2024-04-24 - OPA-based admission controller for policy enforcement
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 140 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-03 - Open source AI-powered multi-cluster Kubernetes dashboard with built-in OPA/Gatekeeper policy visualization, real-time compliance monitoring across hybrid edge and cloud environments. CNCF Sandbox project (Apache 2.0)
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 140 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-03 - Open source AI-powered multi-cluster Kubernetes dashboard with built-in OPA/Gatekeeper policy visualization, real-time compliance monitoring across hybrid edge and cloud environments. CNCF Sandbox project (Apache 2.0)
 * [Cosign Gatekeeper Provider](https://github.com/developer-guy/cosign-gatekeeper-provider) ⚠️ Archived - Cosign Provider a new provider of OPA Gatekeeper's ExternalData feature to verify container images
 * [Kove](https://github.com/cmacrae/kove) ⭐ 50 | 🐛 5 | 🌐 Go | 📅 2023-07-04 - Watch your in-cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics
 * [Admission policy development](https://github.com/k8spin/opa-k8s-development) ⭐ 14 | 🐛 0 | 📅 2019-09-08 - OPA Kubernetes validation and mutation testing environment
@@ -247,7 +247,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 ## Datasource Integrations
 
 * [Elasticsearch](https://github.com/open-policy-agent/contrib/tree/master/data_filter_elasticsearch) ⭐ 349 | 🐛 22 | 🌐 Go | 📅 2026-09-30 - OPA-Elasticsearch Data Filtering Example
-* [Inspektor](https://github.com/poonai/inspektor) ⭐ 285 | 🐛 18 | 🌐 Rust | 📅 2022-07-15 - Access Control as Code for databases using OPA to make its access decision
+* [Inspektor](https://github.com/poonai/inspektor) ⭐ 286 | 🐛 18 | 🌐 Rust | 📅 2022-07-15 - Access Control as Code for databases using OPA to make its access decision
 * [Kafka Authorizer](https://github.com/StyraInc/opa-kafka-plugin) ⭐ 64 | 🐛 8 | 🌐 Scala | 📅 2026-09-24 - Kafka authorizer plugin using OPA, with example policies
 * [Data Filtering on Spring Data](https://github.com/jferrater/opa-data-filter-spring-boot-starter) ⭐ 30 | 🐛 4 | 🌐 Java | 📅 2023-12-20 - Data filtering for MongoDB and JPA using OPA
 * [OPA SpiceDB](https://github.com/umbrellaassociates/opa-spicedb) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2025-10-11 - OPA integration with Authzed SpiceDB that allows to use ReBAC in policies for authorization
@@ -264,9 +264,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 
 ## IDE and Editor Integrations
 
-* [Atom](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/atom) ⭐ 12,305 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Syntax highlighting for the Atom editor
-* [TextMate](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/textmate) ⭐ 12,305 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Syntax highlighting for TextMate
-* [Sublime](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/sublime) ⭐ 12,305 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Syntax highlighting for Sublime
+* [Atom](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/atom) ⭐ 12,308 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Syntax highlighting for the Atom editor
+* [TextMate](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/textmate) ⭐ 12,308 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Syntax highlighting for TextMate
+* [Sublime](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/sublime) ⭐ 12,308 | 🐛 305 | 🌐 Go | 📅 2026-10-03 - Syntax highlighting for Sublime
 * [Nano](https://github.com/scopatz/nanorc) ⭐ 3,269 | 🐛 120 | 🌐 Shell | 📅 2024-05-27 - Syntax highlighting for Nano
 * [IntelliJ plugin](https://github.com/open-policy-agent/opa-idea-plugin) ⭐ 62 | 🐛 36 | 🌐 Kotlin | 📅 2026-09-29 - OPA plugin for the IntelliJ IDE
 * [Vim](https://github.com/tsandall/vim-rego) ⭐ 47 | 🐛 1 | 🌐 Vim script | 📅 2024-01-11 - Vim plugin for the Rego language, with support for syntax highlighting
@@ -282,7 +282,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 
 ## Infrastructure as Code
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,203 | 🐛 254 | 🌐 Go | 📅 2026-10-02 - Scan your code and artifacts for known vulnerabilities and misconfiguration issues.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,207 | 🐛 254 | 🌐 Go | 📅 2026-10-02 - Scan your code and artifacts for known vulnerabilities and misconfiguration issues.
 * [Infracost](https://github.com/infracost/infracost/) ⭐ 12,549 | 🐛 23 | 🌐 Go | 📅 2026-09-30 - Infracost generates cloud cost estimates for Terraform and integrates with OPA, it can be used to write [cost policies](https://www.infracost.io/docs/features/cost_policies/)
 * [Terrascan](https://github.com/accurics/terrascan) ⚠️ Archived - [500+ Policies](https://github.com/accurics/terrascan/tree/master/pkg/policies/opa/rego) ⚠️ Archived written in OPA for security best practices.
 * [KICS](https://github.com/Checkmarx/kics) ⭐ 2,713 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-10-02 - Keeping Infrastructure as Code Secure or KICS scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
@@ -326,7 +326,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 ## Tools and Utilities
 
 * [Topaz](https://github.com/aserto-dev/topaz) ⭐ 1,363 | 🐛 12 | 🌐 Go | 📅 2026-09-30 - Topaz is an open-source application authorization project that uses OPA as the decision engine and supports Rego policies.
-* [Regal](https://github.com/open-policy-agent/regal) ⭐ 409 | 🐛 138 | 🌐 Go | 📅 2026-10-01 - Regal is a linter for Rego, with the goal of making your Rego magnificent! ([blog](https://www.styra.com/blog/guarding-the-guardrails-introducing-regal-the-rego-linter/))
+* [Regal](https://github.com/open-policy-agent/regal) ⭐ 410 | 🐛 140 | 🌐 Go | 📅 2026-10-01 - Regal is a linter for Rego, with the goal of making your Rego magnificent! ([blog](https://www.styra.com/blog/guarding-the-guardrails-introducing-regal-the-rego-linter/))
 * [Open Policy Containers](https://github.com/opcr-io/policy) ⭐ 261 | 🐛 7 | 🌐 Go | 📅 2026-09-27 - Secure software supply chains for OPA policies. Push, pull, tag, test, version, and sign OPA policies.
 * [Fregot](https://github.com/fugue/fregot) ⭐ 230 | 🐛 10 | 🌐 Haskell | 📅 2022-06-30 - Alternative REPL implementation for Rego
 * [Rönd](https://github.com/rond-authz/rond) ⭐ 162 | 🐛 35 | 🌐 Go | 📅 2026-02-11 - Rönd is a lightweight container that distributes security policy enforcement throughout your application
@@ -351,7 +351,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798
 
 ## Other Usecases
 
-* [ScubaGear](https://github.com/cisagov/ScubaGear/) ⭐ 2,690 | 🐛 227 | 🌐 PowerShell | 📅 2026-10-02 - Using Rego policies to assess the security posture of M365 tenants, by CISA
+* [ScubaGear](https://github.com/cisagov/ScubaGear/) ⭐ 2,691 | 🐛 227 | 🌐 PowerShell | 📅 2026-10-02 - Using Rego policies to assess the security posture of M365 tenants, by CISA
 * [Reposaur](https://github.com/reposaur/reposaur) ⚠️ Archived - Audit, verify and report on development platforms (GitHub and others) easily with pre-defined and/or custom policies.
 * [SansShell](https://github.com/Snowflake-Labs/sansshell) ⭐ 122 | 🐛 38 | 🌐 Go | 📅 2026-08-28 - A non-interactive daemon for host management, where any action is authorized by OPA
 * [goast](https://github.com/m-mizutani/goast) ⭐ 79 | 🐛 1 | 🌐 Go | 📅 2026-07-10 - Go AST (Abstract Syntax Tree) based static analysis tool using Rego
